@@ -1,0 +1,51 @@
+question,answer,question_type,page
+Bu ders kitabı hangi eğitim seviyesi için hazırlanmıştır?,Bu ders kitabı ortaokul ve imam hatip ortaokulu 6. sınıf öğrencileri için hazırlanmıştır.,Olgusal,1
+Bu sosyal bilgiler ders kitabının yazarı kimdir?,Bu sosyal bilgiler ders kitabının yazarı Hikmet Azer'dir.,Olgusal,1
+Kitabın basımını ve yayımını hangi şirket üstlenmiştir?,Kitabın basımını ve yayımını EVOS Basım Yayın İnşaat Turizm San. ve Tic. Ltd. Şti. üstlenmiştir.,Olgusal,1
+EVOS Basım Yayın şirketinin iletişim bilgileri nelerdir?,"EVOS Basım Yayın şirketinin adresi İstanbul Yolu 7. km İnönü Mah. Necdet Evliyagil Sokak. Nu: 24/E Batıkent/ANKARA, telefon numarası 0312 278 08 24 - 278 49 61, belgeç numarası 0312 278 49 62, web adresi www.evos.com.tr ve e-posta adresi evos@evos.com.tr'dir.",Olgusal,1
+Bu ders kitabı Millî Eğitim Bakanlığı tarafından ne kadar süreyle ders kitabı olarak kabul edilmiştir?,Bu ders kitabı Millî Eğitim Bakanlığı Talim ve Terbiye Kurulu'nun kararıyla 2024-2025 eğitim öğretim yılından itibaren 5 (beş) yıl süre ile ders kitabı olarak kabul edilmiştir.,Olgusal,1
+"Talim ve Terbiye Kurulu'nun bu kitabı kabul etmesi, yayınevi ve yazarın sorumluluğunu ortadan kaldırır mı?","Hayır, kurulca bu kitabın kabul edilmiş olması ders kitabından yayınevi ve yazarın sorumluluğunu kaldırmaz.",Kavramsal,1
+Bu ders kitabının Talim ve Terbiye Kurulu tarafından kabul edilme tarihi ve karar numarası nedir?,Bu ders kitabının Talim ve Terbiye Kurulu tarafından kabul edilme tarihi 17.08.2023 ve karar numarası 35'tir.,Olgusal,1
+"Bu ders kitabının kabul edildiği kurul kararı, yayınevi ve yazarın sorumluluğunu neden ortadan kaldırmaz?","Kurul kararı, kitabın içeriğinin uygunluğunu onaylar, ancak yayınevi ve yazarın sunulan bilgilerin doğruluğu ve güncelliği konusundaki sorumluluğu devam eder.",Analitik,1
+Bu ders kitabının sonraki baskılarında değişiklikler yapılabilir mi?,"Evet, Talim ve Terbiye Kurulu'nun onayıyla ders kitabının sonraki baskılarında değişiklikler yapılabilir. Ancak bu metinde bu bilgiye doğrudan yer verilmemektedir.",Varsayımsal,1
+Bu ders kitabının hazırlanmasındaki temel amaç nedir?,"Bu ders kitabının hazırlanmasındaki temel amaç, ortaokul ve imam hatip ortaokulu 6. sınıf öğrencilerine sosyal bilgiler müfredatını etkili bir şekilde öğretmektir. (Bu bilgi metinde doğrudan belirtilmemekle birlikte, kitabın türünden çıkarılabilir.)",Yansıtıcı,1
+Bu kitabın yayın hakları kime aittir?,Bu kitabın tüm hakları EVOS Basım Yayın İnşaat Turizm San. ve Tic. Ltd. Şti.'ne aittir.,Olgusal,2
+Kitabın hangi unsurları kısmen dahi olsa alınamaz ve yayımlanamaz?,"Kitabın metinleri, soruları ve şekilleri kısmen dahi olsa hiçbir surette alınıp yayımlanamaz.",Olgusal,2
+Kitabın editörü kimdir?,Kitabın editörü Dr. Gülsüm ŞİMŞEK'tir.,Olgusal,2
+Kitabın dil uzmanı kimdir?,Kitabın dil uzmanı Tuncay DEMİREL'dir.,Olgusal,2
+Kitabın görsel tasarımcısı kimdir?,Kitabın görsel tasarımcısı Gülçin AKIN BEKTAŞ'tır.,Olgusal,2
+Kitabın program geliştirme uzmanı kimdir?,Kitabın program geliştirme uzmanı Dr. Yeliz ÇELEN'dir.,Olgusal,2
+Kitabın ölçme ve değerlendirme uzmanı kimdir?,Kitabın ölçme ve değerlendirme uzmanı Mehtap ERMAN'dır.,Olgusal,2
+Kitabın rehberlik uzmanı kimdir?,Kitabın rehberlik uzmanı Çelebi ERGEN'dir.,Olgusal,2
+Kitabın ISBN numarası nedir?,Kitabın ISBN numarası 978-625-94789-0-6'dır.,Olgusal,2
+Kitabın sertifika numarası nedir?,Kitabın sertifika numarası 46241'dir.,Olgusal,2
+3 neyi temsil edebilir?,"3, bir sayıyı, miktarı veya sıralamayı temsil edebilir. Bağlama bağlı olarak farklı anlamlar kazanabilir.",Olgusal,3
+Neden 3 sayısı önemlidir?,"3 sayısı, bazı kültürlerde ve inanç sistemlerinde önemli bir sembol olarak kabul edilir. Ayrıca, matematiksel ve geometrik özellikleri nedeniyle de önemlidir.",Kavramsal,3
+3 hangi bağlamda kullanıldığında özel bir anlam ifade eder?,"3 sayısı, özellikle üçleme (teslis) gibi dini bağlamlarda veya 'üçün kuralı' gibi anlatım tekniklerinde özel bir anlam ifade edebilir.",Bağlamsal,3
+3'e ne sebep olur?,"3, bir sayma veya ölçme işleminin sonucu olarak ortaya çıkar. Örneğin, üç nesne saydığımızda sonuç 3 olur.",Nedensel,3
+3 sayısı nasıl elde edilir?,"3 sayısı, 1+1+1 veya 2+1 gibi toplama işlemleriyle elde edilebilir.",Yöntemsel,3
+"3 sayısı, 5 sayısı ile nasıl karşılaştırılır?","3 sayısı, 5 sayısından daha küçüktür ve sayı doğrusunda 5'in solunda yer alır. Ayrıca, 3 asal bir sayıyken, 5 de asal bir sayıdır.",Analitik,3
+Eğer her gün 3 tane elma yersem ne olur?,"Eğer her gün 3 tane elma yersem, sağlıklı bir beslenme alışkanlığı edinmiş olurum ve vücuduma vitamin ve lif sağlamış olurum. Ancak aşırıya kaçmak da farklı sorunlara yol açabilir.",Varsayımsal,3
+3 sayısının hangi etkileri vardır?,"3 sayısının etkileri, kullanıldığı alana göre değişir. Matematikte bir sayı olarak işlem görürken, sanatta bir kompozisyon unsuru olabilir.",Yansıtıcı,3
+Neden bazı insanlar 3 sayısını şanslı bulabilir?,"Bazı insanlar 3 sayısını, kültürel veya kişisel inançları nedeniyle şanslı bulabilirler. Bu, tamamen subjektif bir görüştür.",Spekülatif,3
+3'ün temel özellikleri nelerdir?,"3'ün temel özellikleri, bir sayı olması, tam sayı olması ve 2'den büyük olmasıdır. Ayrıca, asal bir sayıdır.",Listeleme,3
+Metindeki sayı nedir?,Metindeki sayı 4'tür.,Olgusal,4
+Neden '4' sayısı bu metinde belirtilmiş olabilir?,"Bu metin, bir liste, sıralama veya başka bir kategorilendirme sisteminde dördüncü öğeyi temsil etmek için '4' sayısını belirtmiş olabilir.",Varsayımsal,4
+'4' sayısı neyi simgeleyebilir?,"'4' sayısı, dört nesne, dört adım veya dört bölüm gibi bir şeyi simgeleyebilir. Bağlama bağlı olarak farklı anlamlara gelebilir.",Spekülatif,4
+'4' sayısının kullanıldığı olası bir senaryo nedir?,"'4' sayısı, bir anketteki seçenek sayısını, bir derecelendirme ölçeğindeki puanı veya bir oyunun seviyesini belirtmek için kullanılabilir.",Varsayımsal,4
+'4' sayısının anlamı metinde belirtiliyor mu?,"Hayır, metinde '4' sayısının anlamı açıkça belirtilmiyor. Anlamı bağlama bağlı olarak çıkarılmalıdır.",Olgusal,4
+'4' sayısının matematiksel bir anlamı var mı?,"Evet, '4' sayısı doğal bir sayıdır ve 2'nin karesidir (2*2=4).",Kavramsal,4
+Bu metinde '4' sayısının kullanımının amacı ne olabilir?,"Bu metinde '4' sayısının kullanımının amacı, basitçe bir sayıyı belirtmek veya bir sıralamayı göstermek olabilir.",Bağlamsal,4
+'4' sayısıyla ilgili olası bir soru nedir?,'4' sayısı neyi temsil ediyor veya ne anlama geliyor olabilir?,Spekülatif,4
+'4' sayısının bu metinde geçmesi ne gibi sonuçlar doğurabilir?,"'4' sayısının bu metinde geçmesi, okuyucunun dikkatini çekebilir veya bir dizi veya sıralama içinde bir konumu belirtmek için kullanılabilir.",Yansıtıcı,4
+Metindeki tek bilgi nedir?,Metindeki tek bilgi '4' sayısıdır.,Olgusal,4
+Metinde bahsedilen sayı kaçtır?,Metinde bahsedilen sayı 5'tir.,Olgusal,5
+Neden metinde sadece '5' sayısı belirtilmiştir?,"Metinde sadece '5' sayısının belirtilmesinin nedeni, görevin bu sayı üzerine soru-cevap çiftleri oluşturmak olmasıdır. Amaç, verilen basit bir girdi üzerinden farklı soru türleri oluşturmaktır.",Nedensel,5
+'5' sayısı hangi bağlamlarda kullanılabilir?,"'5' sayısı matematiksel işlemlerde, sıralamada (örneğin, bir takımın ilk 5 oyuncusu), saatlerde (5 dakika), adreslerde (5 numaralı ev) ve daha birçok farklı bağlamda kullanılabilir.",Bağlamsal,5
+"Eğer metinde '5' yerine '10' yazsaydı, cevaplar nasıl değişirdi?","Eğer metinde '5' yerine '10' yazsaydı, tüm sorulardaki '5' sayısı '10' ile değiştirilirdi. Soruların türleri ve mantığı aynı kalırdı.",Varsayımsal,5
+'5' sayısının temel özellikleri nelerdir?,"'5' sayısı bir doğal sayıdır, bir tam sayıdır, bir rakamdır ve asal sayıdır. Ayrıca, 5 bir tek sayıdır.",Listeleme,5
+'5' sayısı neyi temsil edebilir?,"'5' sayısı, bir miktarı (örneğin, 5 elma), bir sırayı (örneğin, 5. sırada), bir notu (örneğin, 5 üzerinden 5) veya sembolik bir anlamı (örneğin, beş parmak) temsil edebilir.",Kavramsal,5
+'5' sayısının diğer sayılarla karşılaştırılması nasıldır?,"'5' sayısı, 4'ten büyüktür ve 6'dan küçüktür. Ayrıca, 2.5'in iki katıdır.",Analitik,5
+'5' sayısını kullanarak hangi matematiksel işlemler yapılabilir?,"'5' sayısı ile toplama, çıkarma, çarpma, bölme, üs alma gibi temel matematiksel işlemler yapılabilir. Örneğin, 5+3=8, 5-2=3, 5*4=20, 5/1=5.",Yöntemsel,5
+Neden bazı kültürlerde '5' sayısı özel bir öneme sahip olabilir?,"Bazı kültürlerde '5' sayısı, beş duyu organımızı (görme, işitme, koklama, tatma, dokunma) temsil ettiği için veya eldeki parmak sayısı olması nedeniyle özel bir öneme sahip olabilir.",Spekülatif,5
+Metindeki '5' sayısından çıkarılacak ana fikir nedir?,"Metindeki '5' sayısından çıkarılacak ana fikir, basit bir girdi üzerinden farklı soru türleri oluşturulabileceği ve bu soruların sayının farklı yönlerini ve kullanım alanlarını kapsayabileceğidir.",Özetleme,5

@@ -1,0 +1,51 @@
+question,answer,question_type,page
+Bu değerlendirme formunun amacı nedir?,"Bu değerlendirme formunun amacı, öğrencinin bir ünitenin işlenişi sırasındaki performansını değerlendirmesine yardımcı olmaktır.",Olgusal,156
+"Öğrenci, derste anlayamadığı konular hakkında ne yapmalıdır?","Öğrenci, anlayamadığı konular hakkında farklı kaynaklardan bilgi edinmeli, öğretmeninden ve arkadaşlarından yardım almalıdır.",Yöntemsel,156
+"Formdaki 'Katılıyorum', 'Kararsızım', 'Katılmıyorum' seçenekleri neyi ifade etmektedir?","Bu seçenekler, öğrencinin belirtilen ölçütlere ne kadar katıldığını veya katılmadığını belirtmesine yardımcı olur.",Kavramsal,156
+Öğrencinin derse hazırlıklı gelmesi neden önemlidir?,"Derse hazırlıklı gelmek, öğrencinin konuyu daha iyi anlamasına, derse aktif katılmasına ve öğrenme sürecinden daha fazla faydalanmasına yardımcı olur.",Nedensel,156
+"Öğrenci, başarısını arttırmak için neler yapmayı planlayabilir?","Öğrenci, başarısını arttırmak için daha fazla ders çalışabilir, konuları tekrar edebilir, ek kaynaklardan yararlanabilir veya öğretmeninden ek yardım isteyebilir.",Yansıtıcı,156
+Formda hangi tür sorular bulunmaktadır?,"Formda, öğrencinin ünitedeki performansını değerlendirmesine yönelik ölçütlere katılımını belirten ifadeler ve ünitede zorlandığı, hoşlandığı konuları sorgulayan açık uçlu sorular bulunmaktadır.",Analitik,156
+Derste düzenli not almanın faydaları nelerdir?,"Derste düzenli not almak, öğrenilen bilgilerin akılda kalmasına, konuların tekrar edilmesine ve sınavlara hazırlanmaya yardımcı olur.",Nedensel,156
+"Öğrenci, tamamlamakta zorlandığı etkinlikleri nasıl açıklamalıdır?","Öğrenci, tamamlamakta zorlandığı etkinlikleri neden zorlandığını belirterek açıklamalıdır. Örneğin, etkinliğin içeriği, süresi veya gerekli kaynaklar gibi faktörleri belirtebilir.",Yöntemsel,156
+Bu formun amacı sadece öğrencinin kendini değerlendirmesi midir?,"Hayır, bu form aynı zamanda öğrencinin cevaplarını öğretmeni ve arkadaşlarıyla paylaşarak tartışmasına ve öğrenme sürecini geliştirmesine olanak tanır.",Bağlamsal,156
+Formda yer alan 'Verilen görevleri zamanında yerine getirdim' ifadesi ne anlama gelir?,"Bu ifade, öğrencinin ünite boyunca verilen ödevleri, projeleri veya diğer görevleri zamanında tamamlayıp tamamlamadığını değerlendirmesini ifade eder.",Olgusal,156
+Tıp bilimi hangi bilim dallarından biridir?,"Tıp, sosyal bilim dallarından biri değildir. Daha çok fen bilimleri ve sağlık bilimleri ile ilişkilidir.",Olgusal,157
+Renklerin insan davranışlarına etkisi hangi bilim dalının konusudur?,"Renklerin insan davranışlarına etkisi sosyoloji biliminin değil, psikoloji biliminin araştırma konusudur.",Olgusal,157
+Gelecekte eğitim alanında robotlardan yararlanılması planlanmakta mıdır?,"Evet, gelecekte eğitim alanında robotlardan yararlanılması planlanmaktadır.",Olgusal,157
+Teknolojik gelişmelerin temiz enerji kaynaklarının kullanımına etkisi nedir?,"Teknolojik gelişmeler, temiz enerji kaynaklarının kullanımını arttırmaktadır.",Nedensel,157
+Bilimsel araştırmalarda ilk olarak ne yapılır?,"Bilimsel araştırmalarda önce kaynak taraması yapılır, daha sonra varsayımlarda bulunulur ifadesi doğrudur.",Yöntemsel,157
+Bilimsel araştırmalarda ne tür kaynaklardan yararlanılmalıdır?,Bilimsel araştırmalarda farklı türde kaynaklardan yararlanılmalıdır.,Yöntemsel,157
+Taklit ürünler kullanmanın sonuçları neler olabilir?,Taklit ürünler kullanmak sağlık sorunlarına yol açabilmektedir.,Yansıtıcı,157
+Gelişmiş ülkelerin patent başvurusu ile ilgili ortak özelliği nedir?,"Gelişmiş ülkelerin ortak özelliği patent başvurusunun az olması değil, tam tersi çok olmasıdır.",Olgusal,157
+Sosyal bilimlerden hangi bilim dalı toplumların geçmişteki hatalarından ders almasını sağlar?,Sosyal bilimlerden tarih bilimi toplumların geçmişte yapılan hatalardan ders almasını sağlar.,Olgusal,157
+Araştırmalarda varsayımlara ne ad verilir?,Araştırdığınız bir konuyla ilgili varsayımlara hipotez denir.,Kavramsal,157
+TCMB'nin para politikası duruşu ne zaman değişecek?,"Türkiye Cumhuriyet Merkez Bankası (TCMB), enflasyon görünümünde belirgin bir iyileşme sağlanana kadar para politikasındaki sıkı duruşunu kararlılıkla sürdürecektir.",Olgusal,158
+Yukarıdaki genel ağ haberi hangi sosyal bilim ile ilgilidir ve neden?,"Haber ekonomidir, çünkü Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) para politikası duruşunu açıklamaktadır ve bu ekonomi biliminin konusudur.",Kavramsal,158
+Üç boyutlu yazıcıların gelecekteki potansiyel etkisi nedir?,"Gelecekte dışarıdan satın aldığımız birçok ürünü evimizde kendimiz tasarlayıp yapabileceğiz. Bu, üç boyutlu yazıcıların yaygınlaşmasıyla mümkün olacaktır.",Varsayımsal,158
+Ali'nin bilimsel araştırma sürecindeki mevcut aşaması nedir?,"Ali, kütüphanede araştırdığı konuyla ilgili kitap ve dergileri incelediğine göre, konuyla ilgili kaynak taramasının yapılması aşamasındadır.",Olgusal,158
+Yenikapı kazılarında bulunan paraların ait olduğu dönem hangisidir?,İstanbul Yenikapı'da gerçekleştirilen kazılarda Osmanlı Dönemi'ne ait paralar bulunmuştur.,Olgusal,158
+I. TBMM binası günümüzde ne olarak kullanılmaktadır?,I. TBMM binası Kurtuluş Savaşı Müzesi olarak düzenlenerek halkın ziyaretine açılmıştır.,Olgusal,158
+Taksilerin birçok ülkede sarı olmasının nedeni nedir?,"Sarı, geçiciliğin ve dikkati çekiciliğin ifadesi olduğundan birçok ülkede taksiler sarıdır.",Nedensel,158
+Eskimoların 'iglo' adı verilen evleri yapmalarının nedeni nedir?,Eskimolar doğal bitki örtüsünün olmadığı yerlerde yaşamak üzere sıkıştırılmış kar ve buz bloklarından 'iglo' adı verilen evler yaparlar.,Nedensel,158
+Arkeoloji bilimi hangi tarihi kalıntıları inceler?,"Arkeoloji bilimi, Yenikapı'da bulunan Osmanlı Dönemi'ne ait paralar gibi tarihi kalıntıları inceler.",Bağlamsal,158
+Sosyal bilimler nelerdir? Metinde geçenleri listele.,"Metinde geçen sosyal bilimler: Antropoloji, Ekonomi, Sosyoloji, Felsefe, Psikoloji, Arkeoloji, Tarih ve Coğrafya.",Listeleme,158
+Patent hakkının amaçlarından hangileri yukarıdaki ifadelerde belirtilmiştir?,"Patent hakkının amaçlarından bazıları yeni fikirleri ve bilimsel gelişmeleri teşvik etmek ve buluş sahibinin izni olmadan ürünün üretilmesini önlemektir. Teknolojinin çevreye zararlarını engellemek de dolaylı bir amaç olabilir, ancak metinde doğrudan belirtilmemiştir.",Olgusal,159
+Türkiye'nin bilim ve teknoloji politikalarını belirleme amacı hangi kuruma aittir?,"Türkiye'nin bilim ve teknoloji politikasını belirleme, uluslararası alanda bilimsel ve teknolojik iş birliği yapma ve üniversite-sanayi iş birliğini geliştirme amaçları TÜBİTAK'a aittir.",Olgusal,159
+Bilim ve teknolojinin geliştirilmesine yönelik ülkemizdeki çalışmalara örnekler nelerdir?,"Ülkemizde bilim ve teknolojinin geliştirilmesine yönelik çalışmalar arasında TÜBİTAK gibi kurumların bilimsel araştırmaları desteklemesi, üniversitelerde yapılan Ar-Ge çalışmaları ve teknoloji geliştirme bölgelerinin kurulması sayılabilir.",Olgusal,159
+Bilimsel ve teknolojik gelişmelerin gelecekte insanların yaşamında ne gibi olumlu değişiklikler yapması beklenmektedir?,"Bilimsel ve teknolojik gelişmelerin gelecekte insanların yaşamında sağlık alanında daha etkili tedaviler, ulaşımda daha hızlı ve güvenli sistemler, iletişimde daha kolay erişim ve üretimde daha verimli yöntemler gibi olumlu değişiklikler yapması beklenmektedir.",Varsayımsal,159
+Bilimsel araştırmalarda araştırma basamaklarını takip etmek neden önemlidir?,"Bilimsel araştırmalarda araştırma basamaklarını takip etmek, araştırmanın sistematik ve güvenilir olmasını sağlar. Bu sayede elde edilen sonuçların doğruluğu ve geçerliliği artar.",Nedensel,159
+Korsan ürünler kullanmanın ülkemize ve insanlara zararları nelerdir?,"Korsan ürünler kullanmak, devletin vergi kaybına neden olur, yasal üreticilerin zarar görmesine yol açar, ürün kalitesizliği nedeniyle tüketicilerin mağdur olmasına sebep olur ve fikri mülkiyet haklarının ihlali anlamına gelir.",Analitik,159
+Bulmacadaki 1 numaralı sorunun cevabı nedir?,Bulmacadaki 1 numaralı sorunun cevabı TÜBİTAK'tır.,Olgusal,159
+Bulmacadaki 2 numaralı sorunun cevabı nedir?,Bulmacadaki 2 numaralı sorunun cevabı Arkeoloji'dir.,Olgusal,159
+Bulmacadaki 7 numaralı sorunun cevabı nedir?,Bulmacadaki 7 numaralı sorunun cevabı Korsan'dır.,Olgusal,159
+Metinde bahsedilen karekod ne işe yarar?,"Metinde bahsedilen karekod, okutulduğunda daha fazla etkinliğe ve soruya ulaşılmasını sağlar.",Olgusal,159
+Görsel 5.1 neyi tasvir etmektedir?,"Görsel 5.1, Rize'de bir çay işçisini tasvir etmektedir.",Olgusal,160
+Bu görselin (Görsel 5.1) bağlamı nedir?,"Görsel 5.1, muhtemelen Türkiye'nin Rize bölgesindeki çay üretimi veya çay kültürü ile ilgili bir bağlamda sunulmaktadır.",Bağlamsal,160
+Bu görselin amacı ne olabilir?,"Görselin amacı, Rize'deki çay üretiminin bir parçası olan çay işçilerinin günlük yaşamını veya çalışmalarını göstermek olabilir.",Varsayımsal,160
+"Çay işçisi görseli, Rize'nin hangi özelliğini vurgulamaktadır?","Çay işçisi görseli, Rize'nin önemli bir tarım bölgesi ve çay üretim merkezi olduğunu vurgulamaktadır.",Analitik,160
+Rize'deki çay işçilerinin çalışma koşulları hakkında bilgi edinmek için bu görsel yeterli midir?,"Hayır, bu görsel tek başına çay işçilerinin çalışma koşulları hakkında yeterli bilgi sağlamaz. Daha fazla araştırma ve bağlamsal bilgi gereklidir.",Yansıtıcı,160
+Görsel 5.1'in başlığı ne anlama geliyor?,"Görsel 5.1'in başlığı, bunun bir görsel dizisi içinde 5.1 numaralı görsel olduğunu ve görselin konusunun Rize'deki bir çay işçisi olduğunu belirtir.",Kavramsal,160
+Bu görselin olası etkileri neler olabilir?,"Bu görsel, izleyicilerde Rize'deki çay üretimine dair bir farkındalık yaratabilir ve çay işçilerinin emeğine saygı duyulmasına katkıda bulunabilir.",Yansıtıcı,160
+Bu görsel neden özellikle Rize'den bir çay işçisini gösteriyor?,"Rize, Türkiye'nin en önemli çay üretim bölgelerinden biri olduğu için görsel özellikle Rize'den bir çay işçisini gösteriyor olabilir.",Nedensel,160
+Bu görselin benzer görsellerle karşılaştırıldığında ne gibi farklılıkları olabilir?,"Bu sorunun cevabı, görselin içeriğine bağlıdır. Diğer görsellerle karşılaştırıldığında kompozisyon, ışıklandırma, konu seçimi veya anlatısal unsurlar açısından farklılıklar olabilir.",Analitik,160
+Bu görselin ana teması nedir?,"Bu görselin ana teması, Rize'deki çay üretimi ve bu üretimde çalışan insanların hayatıdır.",Özetleme,160

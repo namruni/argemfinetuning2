@@ -1,0 +1,7 @@
+# PDF Fine-Tuning Veri Seti Oluşturucu - Gerekli Kütüphaneler
+
+# PDF işleme
+pymupdf==1.24.0
+
+# Google Generative AI API (Gemini)
+google-generativeai==0.8.0

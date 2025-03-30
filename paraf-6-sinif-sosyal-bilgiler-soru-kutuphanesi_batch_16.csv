@@ -1,0 +1,51 @@
+question,answer,question_type,page
+352 numaralı testin kaçıncı sorusu 'C' cevabına sahiptir?,352 numaralı testin 1. sorusu 'C' cevabına sahiptir.,Olgusal,76
+Test 24'ün doğru cevapları nelerdir?,"Test 24'ün cevap anahtarı şöyledir: 1-D, 2-B, 3-A, 4-A, 5-A, 6-D, 7-C, 8-A, 9-A, 10-B",Listeleme,76
+Hangi test 'SÜPER TEST' başlığına sahiptir?,26 numaralı test 'SÜPER TEST' başlığına sahiptir.,Olgusal,76
+'YENİ NESİL SORULAR' başlığı altındaki testin kaçıncı sorusunun cevabı 'A'dır?,'YENİ NESİL SORULAR' başlığı altındaki testin 3. ve 7. sorularının cevabı 'A'dır.,Olgusal,76
+'BAŞTAN SONA TESTLERİ (1 - 2. ÜNİTELERİN TEKRARI)' başlığı hangi konuları kapsamaktadır?,"Bu başlık altındaki testler, 1. ve 2. ünitelerin tekrarını kapsamaktadır.",Kavramsal,76
+Test 3'te kaç soru bulunmaktadır?,Test 3'te 10 soru bulunmaktadır.,Olgusal,76
+Hangi test 'DÜNYA’NIN NERESİNDEYİM? - TÜRKİYE’NİN COĞRAFİ KONUMU' başlığına sahiptir?,2 numaralı test 'DÜNYA’NIN NERESİNDEYİM? - TÜRKİYE’NİN COĞRAFİ KONUMU' başlığına sahiptir.,Olgusal,76
+'DÜNYA’NIN NERESİNDEYİM? - PARALEL VE MERİDYENLER' testinde kaç tane 'A' cevabı vardır?,'DÜNYA’NIN NERESİNDEYİM? - PARALEL VE MERİDYENLER' testinde 7 tane 'A' cevabı vardır.,Olgusal,76
+'ÜLKEMİN GÜZELLİKLERİ HARİTADA - YER ŞEKİLLERİ' testinde hangi cevap en çok tekrar etmektedir?,'ÜLKEMİN GÜZELLİKLERİ HARİTADA - YER ŞEKİLLERİ' testinde 'D' cevabı 4 kez tekrar etmektedir.,Analitik,76
+Bu cevap anahtarı hangi yayın evine aittir?,Bu cevap anahtarı PRF Yayınları'na aittir.,Olgusal,76
+Test-5'in 1. sorusunun cevabı nedir?,Test-5'in 1. sorusunun cevabı D'dir.,Olgusal,77
+"""Ülkemin Güzellikleri Haritada - Türkiye İklimleri"" testinde kaç soru bulunmaktadır?","""Ülkemin Güzellikleri Haritada - Türkiye İklimleri"" testinde 10 soru bulunmaktadır.",Olgusal,77
+Doğru-Yanlış bölümünde kaç tane 'Doğru' cevabı vardır?,Doğru-Yanlış bölümünde 3 tane 'Doğru' cevabı vardır.,Olgusal,77
+Alıştırma-Uygulama bölümünde (Test-12) hangi coğrafi terimlere yer verilmiştir?,"Alıştırma-Uygulama bölümünde (Test-12) plato, deniz, okyanus, kutup gibi coğrafi terimlere yer verilmiştir.",Listeleme,77
+Metinde yer alan testlerin konuları nelerdir?,"Metinde yer alan testlerin konuları şunlardır: Ülkemin Güzellikleri Haritada - Türkiye İklimleri, Ülkemin Zenginlikleri Haritada, Çevremizde Kimler Yaşıyor?, EBA Pekiştirme Testi, Ünite Geliştirme Testi, Yeni Nesil Sorular.",Listeleme,77
+Hangi testlerde eşleştirme veya doğru-yanlış gibi klasik soru tipleri kullanılmıştır?,Metinde belirtilen 'Eşleştirme' ve 'Doğru-Yanlış' başlıkları altında klasik soru tipleri kullanılmıştır. Ayrıca 'Alıştırma - Uygulama' bölümünde boşluk doldurma soruları da bulunmaktadır.,Çıkarımsal,77
+Test-10'daki soruların cevapları hangi formattadır?,"Test-10'daki soruların cevapları a, b, c, d, e şeklinde harflerle belirtilmiştir, bu da soruların çoktan seçmeli olduğunu gösterir.",Analitik,77
+Metnin genel amacı nedir?,"Metnin genel amacı, çeşitli testlerin ve alıştırmaların cevap anahtarlarını sunmaktır. Bu testler coğrafya, çevre ve vatandaşlık bilgisi gibi konuları kapsamaktadır.",Kavramsal,77
+EBA Pekiştirme Testi hangi numarayla belirtilmiştir?,"EBA Pekiştirme Testi, Test-14 olarak belirtilmiştir.",Olgusal,77
+Metinde 'PRF Yayınları' ifadesi neyi belirtmektedir?,"Metinde 'PRF Yayınları' ifadesi, 'Yeni Nesil Sorular' testini hazırlayan yayın evini belirtmektedir.",Bağlamsal,77
+Baştan Sona Testleri hangi ünitelerin tekrarını kapsamaktadır?,"Baştan Sona Testleri, 1-3. ünitelerin tekrarını kapsamaktadır.",Olgusal,78
+Hayalimdeki Gelecek testi hangi test numarası ile belirtilmiştir?,"Hayalimdeki Gelecek testi, Test-4 olarak belirtilmiştir.",Olgusal,78
+4. Ünite'nin başlığı nedir?,"4. Ünite'nin başlığı: Bilim, Teknoloji ve Toplum - Sosyal Bilimler ve Toplum'dur.",Olgusal,78
+Emek Bir Hazinedir testi hangi test numarası ile belirtilmiştir?,Metinde Emek Bir Hazinedir testi Test - 6 olarak belirtilmiştir.,Olgusal,78
+Alıştırma - Uygulama bölümünde (Test - 8) hangi türde sorular bulunmaktadır?,"Alıştırma - Uygulama bölümünde (Test - 8) boşluk doldurma, eşleştirme ve doğru-yanlış türünde sorular bulunmaktadır.",Olgusal,78
+Boşluk doldurma bölümünde hangi kelimeler verilmiştir?,"Boşluk doldurma bölümünde Tübitak, Gazi Yaşargil, Aziz Sancar, Dipnot, Korsan, Telif, yasal kelimeleri verilmiştir.",Olgusal,78
+PRF Yayınları ne tür bir yayındır?,"Metinde PRF Yayınları'nın ne tür bir yayın olduğuna dair doğrudan bir bilgi bulunmamaktadır, ancak 'Araştırma Yapıyorum' başlığı altında yer alması bir araştırma yayını olabileceğini düşündürmektedir.",Çıkarımsal,78
+Testlerdeki soru sayıları standart mıdır?,"Hayır, testlerdeki soru sayıları standart değildir. Örneğin, bazı testlerde 11 soru varken bazılarında daha az soru bulunmaktadır.",Analitik,78
+Doğru-Yanlış bölümünde kaç adet soru bulunmaktadır?,Doğru-Yanlış bölümünde 8 adet ifade bulunmaktadır.,Olgusal,78
+Metinde hangi farklı soru tipleri kullanılmıştır?,"Metinde çoktan seçmeli sorular, eşleştirme, doğru-yanlış ve boşluk doldurma gibi farklı soru tipleri kullanılmıştır.",Listeleme,78
+Bu cevap anahtarı hangi tür soruları içermektedir?,"Bu cevap anahtarı, test sorularının cevaplarını içermektedir. Testler farklı konuları ve üniteleri kapsamaktadır.",Olgusal,79
+"""SÜPER TEST"" hangi test numarası altında yer almaktadır?","""SÜPER TEST"", TEST - 12 altında yer almaktadır.",Olgusal,79
+"""YENİ NESİL SORULAR"" hangi test numarası ile belirtilmiştir?","""YENİ NESİL SORULAR"", TEST - 13 olarak belirtilmiştir.",Olgusal,79
+"""BAŞTAN SONA TESTLERİ"" hangi üniteleri kapsamaktadır?","""BAŞTAN SONA TESTLERİ"" (1 - 4. ÜNİTELERİN TEKRARI) olarak belirtilmiştir, yani 1'den 4'e kadar olan üniteleri kapsamaktadır.",Olgusal,79
+Bu dokümandaki testlerin amacı nedir?,"Bu dokümandaki testlerin amacı, öğrencilerin çeşitli konulardaki bilgilerini ölçmek ve pekiştirmektir. Ayrıca, ünite tekrarları ve yeni nesil sorular gibi farklı yaklaşımlarla öğrenmeyi desteklemektir.",Kavramsal,79
+"Hangi test ""EBA PEKİŞTİRME TESTİ"" olarak adlandırılmıştır?","""EBA PEKİŞTİRME TESTİ"", TEST - 9 olarak adlandırılmıştır.",Olgusal,79
+"""ÜNITE GELIŞTIRME TESTI"" hangi test numarası altında bulunmaktadır?","""ÜNITE GELIŞTIRME TESTI"", TEST - 10 altında bulunmaktadır.",Olgusal,79
+"Hangi test 5. üniteyi, ""ÜRETİM, DAĞITIM VE TÜKETİM"" konusunu kapsamaktadır?","TEST - 11, 5. üniteyi kapsamaktadır ve başlığı ""ÜRETİM, DAĞITIM VE TÜKETİM - KAYNAKLARIMIZ KAZANCA DÖNÜŞÜYOR"" şeklindedir.",Olgusal,79
+Bu cevap anahtarı kimin tarafından yayınlanmıştır?,Bu cevap anahtarı PRF YAYINLARI tarafından yayınlanmıştır.,Olgusal,79
+Bu dokümanda kaç farklı test bulunmaktadır (numaralandırılmış)?,Bu dokümanda numaralandırılmış olarak 13 farklı test bulunmaktadır (TEST - 1'den TEST - 13'e kadar). Ayrıca isimlendirilmiş testler de bulunmaktadır.,Analitik,79
+Haritada belirtilen Türk göçleri hangi bölgeden başlamıştır?,Haritada belirtilen Türk göçleri Orta Asya'dan başlamıştır.,Olgusal,80
+Haritada verilen ölçek neyi ifade etmektedir?,"Haritada verilen ölçek, harita üzerindeki mesafelerin gerçek dünyadaki mesafelere oranını ifade etmektedir. Örneğin, harita üzerinde 750 km olarak gösterilen mesafe, gerçekte 750 kilometreyi temsil etmektedir.",Kavramsal,80
+Haritada adı geçen denizler nelerdir?,"Haritada adı geçen denizler arasında Umman Denizi, Akdeniz, Karadeniz, Hazar Denizi, Sarı Deniz, Japon Denizi ve Çin Denizi bulunmaktadır.",Listeleme,80
+Haritadaki 'Genişleme Alanları' ifadesi ne anlama gelmektedir?,"'Genişleme Alanları' ifadesi, Türklerin göç ettikleri ve yerleştikleri coğrafi bölgeleri ifade etmektedir.",Kavramsal,80
+Haritada belirtilen göller hangileridir?,Haritada belirtilen göller Balkaş Gölü ve Baykal Gölü'dür.,Listeleme,80
+Haritada adı geçen ülkelerden hangileri Avrupa kıtasında yer almaktadır?,"Haritada adı geçen ülkelerden İskandinavya, Rusya, Fransa ve İtalya Avrupa kıtasında yer almaktadır.",Olgusal,80
+Haritada belirtilen 'Türklerin ilk ana yurtları' neresidir?,Haritada 'Türklerin ilk ana yurtları' olarak belirtilen bölge Orta Asya'dır.,Olgusal,80
+Haritada yer alan 'Göç Yolları' neden önemlidir?,"Haritada yer alan 'Göç Yolları', Türklerin farklı coğrafyalara nasıl yayıldığını ve hangi bölgelerden geçtiklerini göstermesi açısından önemlidir.",Kavramsal,80
+Haritada adı geçen coğrafi bölgelerden hangileri günümüzde Orta Asya olarak kabul edilir?,"Haritada adı geçen Buhara, Kaşgar, Cend ve Harzem günümüzde Orta Asya olarak kabul edilen bölgelerdir.",Analitik,80
+Haritaya göre Türk göçlerinin yönleri hakkında ne söylenebilir?,"Haritaya göre Türk göçleri, Orta Asya'dan farklı yönlere doğru gerçekleşmiştir. Bu yönler arasında batıya doğru Avrupa, güneye doğru Arap Yarımadası ve doğuya doğru Mançurya sayılabilir.",Çıkarımsal,80
