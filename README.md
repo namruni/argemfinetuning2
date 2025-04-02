@@ -1,4 +1,6 @@
-# PDF'den Fine-Tuning Veri Seti Oluşturma Aracı
+# ARGEM : Araştırma Geliştirme Okulu Yapay Zeka Takımı
+
+# 6. Sınıf Sosyal Bilgiler Dersine ait pdf dosyalardan .csv formatında  Fine-Tuning için  Veri Seti Oluşturma Aracı
 
 Bu araç, PDF dosyalarından fine-tuning için veri seti oluşturan bir Python programıdır. Google Gemini 2.0 Flash modeli kullanılarak PDF içeriğinden soru-cevap çiftleri oluşturulur.
 
