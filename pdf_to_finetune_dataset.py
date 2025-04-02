@@ -1,3 +1,4 @@
+# ARGEM: Araştırma Geliştirme Okulu Yapay Zeka Takımı
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
