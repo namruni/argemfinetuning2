@@ -15,8 +15,8 @@ Bu araç, PDF dosyalarından fine-tuning için veri seti oluşturan bir Python p
 
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/namruni/agemfinetuning2.git
-cd agemfinetuning2
+git clone https://github.com/namruni/argemfinetuning2.git
+cd argemfinetuning2
 ```
 
 2. Gerekli paketleri yükleyin:
