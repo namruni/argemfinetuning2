@@ -1,0 +1,76 @@
+question,answer,question_type,page
+PRF Yayınları nedir?,Sağlanan metinde PRF Yayınları hakkında herhangi bir bilgi bulunmamaktadır. Bu nedenle PRF Yayınları'nın ne olduğu veya ne yaptığı hakkında bir cevap verilememektedir.,Olgusal,1
+PRF Yayınları'nın amacı ne olabilir?,"Metin PRF Yayınları hakkında herhangi bir bilgi içermediğinden, amacının ne olabileceği hakkında spekülasyon yapmak mümkün değildir.",Spekülatif,1
+PRF Yayınları ne tür yayınlar yapar?,Metinde PRF Yayınları'nın ne tür yayınlar yaptığına dair bir bilgi bulunmamaktadır.,Olgusal,1
+PRF Yayınları'nın hedef kitlesi kimlerdir?,"Metin PRF Yayınları hakkında bilgi içermediğinden, hedef kitlesinin kimler olduğu bilinemez.",Olgusal,1
+PRF Yayınları'na nasıl ulaşılabilir?,"Metin PRF Yayınları hakkında hiçbir bilgi içermediğinden, onlara nasıl ulaşılabileceğine dair bir bilgi de bulunmamaktadır.",Yöntemsel,1
+PRF Yayınları'nın diğer yayın evlerinden farkı nedir?,"Metin PRF Yayınları hakkında yeterli bilgi sağlamadığı için, diğer yayın evleriyle karşılaştırma yapılamaz.",Analitik,1
+PRF Yayınları'nın gelecekteki planları neler olabilir?,"Metin PRF Yayınları hakkında bilgi içermediğinden, gelecekteki planları hakkında varsayımlarda bulunmak mümkün değildir.",Varsayımsal,1
+PRF Yayınları'nın yayıncılık sektöründeki önemi nedir?,"Metin PRF Yayınları hakkında herhangi bir bilgi içermediğinden, yayıncılık sektöründeki önemini değerlendirmek mümkün değildir.",Bağlamsal,1
+PRF Yayınları hangi bağlamda belirtilmiştir?,Metin sadece 'PRF YAYINLARI' ifadesini içermektedir. Herhangi bir bağlam belirtilmemiştir.,Bağlamsal,1
+PRF Yayınları hakkında daha fazla bilgi nerede bulunabilir?,Metinde PRF Yayınları hakkında daha fazla bilgiye nereden ulaşılabileceğine dair bir ipucu bulunmamaktadır.,Yöntemsel,1
+PRF Yayınları'nın web sitesi var mı?,Metin PRF Yayınları hakkında hiçbir bilgi içermediği için web sitesi olup olmadığı bilinmemektedir.,Olgusal,1
+PRF Yayınları'nın logosu nasıldır?,Metinde PRF Yayınları hakkında bilgi bulunmadığından logosu hakkında bir bilgi de bulunmamaktadır.,Olgusal,1
+PRF Yayınları'nın bastığı kitapların konuları nelerdir?,"Metinde PRF Yayınları hakkında bilgi olmadığı için, bastığı kitapların konuları hakkında da bir bilgi bulunmamaktadır.",Olgusal,1
+PRF Yayınları'nın misyonu nedir?,Metin PRF Yayınları ile ilgili herhangi bir misyon bilgisi içermemektedir.,Kavramsal,1
+PRF Yayınları'nın okuyucular üzerindeki etkileri nelerdir?,Metin PRF Yayınları hakkında yeterli bilgi sağlamadığı için okuyucular üzerindeki etkilerini değerlendirmek mümkün değildir.,Yansıtıcı,1
+Bu metnin temel amacı nedir?,"Bu metnin temel amacı, verilen bir metin için yüksek kaliteli soru-cevap çiftleri oluşturmaktır.",Olgusal,2
+Soru-cevap çiftleri oluşturulurken hangi dilsel gerekliliğe dikkat edilmelidir?,"Soru-cevap çiftleri oluşturulurken, soruların ve cevapların verilen metnin diliyle aynı olması gerekmektedir.",Kavramsal,2
+Metinde hangi soru türleri belirtilmiştir?,"Metinde belirtilen soru türleri şunlardır: olgusal, kavramsal, bağlamsal, nedensel, yöntemsel, analitik, varsayımsal, yansıtıcı, spekülatif, listeleme ve özetleme soruları.",Listeleme,2
+Neden 'Evet' veya 'Hayır' gibi kısa cevaplardan kaçınılmalıdır?,"'Evet' veya 'Hayır' gibi kısa cevaplardan kaçınılmalıdır çünkü cevap, bilginin ardındaki gerekçeyi anlamak için gerekli bağlamı sağlamalıdır.",Nedensel,2
+Oluşturulan soruların zorluk seviyesi nasıl olmalıdır?,"Oluşturulan soruların zorluk seviyesi dengeli olmalı, yani basit, orta ve karmaşık soruları içermelidir.",Yöntemsel,2
+Bağlam farkındalığı neden önemlidir?,Bağlam farkındalığı önemlidir çünkü tüm soruların verilen metnin içeriğine derinlemesine kök saldığından ve materyalin amacını ve nüanslarını anladığından emin olunması gerekir.,Kavramsal,2
+Soru-cevap çiftleri oluşturulurken tekrardan kaçınmanın önemi nedir?,Soru-cevap çiftleri oluşturulurken tekrardan kaçınmak önemlidir çünkü tüm soruların belirgin ve benzersiz olması gerekmektedir.,Kavramsal,2
+Varsayımsal bir soru örneği verin.,Varsayımsal bir soru örneği: 'Metinde belirtilen talimatlar dikkate alınmasaydı ne olurdu?' olabilir.,Varsayımsal,2
+Analitik bir soru oluşturun.,"Analitik bir soru: 'Metinde belirtilen soru türleri, diğer soru sınıflandırma yöntemleriyle nasıl karşılaştırılır?' olabilir.",Analitik,2
+"Metne göre, iyi bir cevabın özellikleri nelerdir?","Metne göre, iyi bir cevap özlü, doğru, sağlanan içeriğe dayalı olmalı ve bilginin ardındaki gerekçeyi anlamak için yeterli bağlamı sağlamalıdır.",Olgusal,2
+Bu görevin başarısı neye bağlıdır?,"Bu görevin başarısı, yüksek kaliteli, çeşitli ve metin içeriğine uygun soru-cevap çiftleri oluşturmaya bağlıdır.",Kavramsal,2
+Spekülatif bir soru örneği verin.,Spekülatif bir soru örneği: 'Neden birisi bu tür soru-cevap çiftleri oluşturma görevini zorlayıcı bulabilir?' olabilir.,Spekülatif,2
+Soru-cevap çiftlerinin JSON formatında verilmesinin nedeni nedir?,"Soru-cevap çiftlerinin JSON formatında verilmesinin nedeni, verinin yapılandırılmış ve kolayca işlenebilir olmasını sağlamaktır.",Nedensel,2
+Metinde belirtilen soru türlerinden bağlamsal sorunun amacı nedir?,"Bağlamsal sorunun amacı, konunun daha geniş bağlamı veya arka planı hakkında bilgi edinmektir.",Kavramsal,2
+Özetleme sorusu ne tür bir bilgi arar?,"Özetleme sorusu, bir konunun kısa bir özetini veya ana noktalarını arar.",Olgusal,2
+1. Ünitenin başlığı nedir?,1. Ünitenin başlığı 'Birey ve Toplum'dur.,Olgusal,3
+Bu kitabın içeriğinde 'Değişen Rollerim' konusu hangi ünite içinde yer almaktadır?,"'Değişen Rollerim' konusu, 'Birey ve Toplum' başlıklı 1. ünite içinde yer almaktadır.",Bağlamsal,3
+'Ön Yargıları Kırıyorum' konusunun birey ve toplum ilişkisi açısından önemi nedir?,"'Ön Yargıları Kırıyorum' konusu, bireylerin toplum içindeki etkileşimlerini olumlu yönde etkileyerek daha sağlıklı ve kapsayıcı bir toplum oluşturulmasına katkıda bulunur.",Kavramsal,3
+Kitapta 'Birlikte Daha Güçlüyüz' başlığı altında hangi konular ele alınmış olabilir?,"'Birlikte Daha Güçlüyüz' başlığı altında, işbirliği, dayanışma ve toplumsal uyum gibi konuların ele alınmış olması muhtemeldir.",Varsayımsal,3
+'Sorunlarımın Çözümünü Biliyorum' başlığı altında hangi becerilerin geliştirilmesi hedeflenmektedir?,"'Sorunlarımın Çözümünü Biliyorum' başlığı altında, problem çözme, karar verme ve eleştirel düşünme gibi becerilerin geliştirilmesi hedeflenmektedir.",Yöntemsel,3
+Kitapta yer alan 'Alıştırma - Uygulama' bölümünün amacı nedir?,"'Alıştırma - Uygulama' bölümünün amacı, öğrencilerin öğrendikleri bilgileri pekiştirmelerini ve uygulamaya dökmelerini sağlamaktır.",Kavramsal,3
+EBA Pekiştirme Testi ve Ünite Geliştirme Testi ne işe yarar?,"EBA Pekiştirme Testi ve Ünite Geliştirme Testi, öğrencilerin konuları ne kadar anladıklarını ölçmelerine ve eksiklerini belirlemelerine yardımcı olur.",Analitik,3
+Süper Test ve Süper Test Çözümleri neden önemlidir?,"Süper Test ve Süper Test Çözümleri, öğrencilerin sınavlara hazırlanmalarına ve farklı soru tiplerini görmelerine yardımcı olduğu için önemlidir.",Kavramsal,3
+Yeni Nesil Sorular bölümünün amacı nedir?,"Yeni Nesil Sorular bölümünün amacı, öğrencilerin analitik düşünme ve problem çözme becerilerini geliştirmektir.",Kavramsal,3
+2. Ünitenin başlığı nedir?,2. Ünitenin başlığı 'Kültür ve Miras'tır.,Olgusal,3
+'Destan ve Yazıtlarda Türkler' konusu hangi dönemi kapsamaktadır?,"'Destan ve Yazıtlarda Türkler' konusu, Orta Asya Türk yaşamını kapsamaktadır.",Bağlamsal,3
+'İslamiyet'in Doğuşu ve Değişim' konusunun tarihsel önemi nedir?,"'İslamiyet'in Doğuşu ve Değişim' konusu, dünya tarihini ve özellikle Orta Doğu coğrafyasını derinden etkilemiş bir dönemi anlamak için önemlidir.",Kavramsal,3
+'İslamiyet ve Türkler' başlığı altında hangi konular ele alınmaktadır?,"'İslamiyet ve Türkler' başlığı altında, Türklerin İslamiyet'i kabulü ve ilk Türk-İslam devletleri gibi konular ele alınmaktadır.",Listeleme,3
+'Yeni Yurt Anadolu' başlığı altında hangi tarihi olaylar işlenmektedir?,"'Yeni Yurt Anadolu' başlığı altında, Büyük Selçuklu Devleti, I. Beylikler Dönemi, Türkiye Selçuklu Devleti, Haçlı Seferleri ve Moğollar gibi tarihi olaylar işlenmektedir.",Listeleme,3
+'Medeniyete Yön Veren Yollar' konusunun içeriği hakkında ne söylenebilir?,"'Medeniyete Yön Veren Yollar' konusu, farklı medeniyetlerin etkileşimini ve bu etkileşimin medeniyetlerin gelişimine olan katkısını ele almaktadır.",Özetleme,3
+Bu metin ne hakkındadır?,"Bu metin, bir kitabın veya çalışma materyalinin içindekiler bölümüne benzemektedir ve çeşitli üniteler, testler ve alıştırmalar içermektedir.",Özetleme,4
+EBA Pekiştirme Testi bu dokümanda kaç kez geçmektedir?,EBA Pekiştirme Testi bu dokümanda iki kez geçmektedir.,Olgusal,4
+"""Baştan Sona Testleri"" neyi kapsamaktadır?","""Baştan Sona Testleri"", belirtilen ünitelerin tekrarını kapsamaktadır. İlk test 1 ve 2. üniteleri, ikincisi ise 1, 2 ve 3. üniteleri kapsamaktadır.",Olgusal,4
+Bu dokümanda hangi yayınevinin adı geçmektedir?,Bu dokümanda PRF YAYINLARI'nın adı geçmektedir.,Olgusal,4
+"""Yeni Nesil Sorular"" bölümünün amacı nedir?","""Yeni Nesil Sorular"" bölümünün amacı, öğrencilerin daha karmaşık ve düşündürücü sorularla karşılaşmasını sağlamaktır.",Kavramsal,4
+3. Ünitenin başlığı nedir?,"3. Ünitenin başlığı ""İNSANLAR, YERLER VE ÇEVRELER""dir.",Olgusal,4
+"""Ülkemin Güzellikleri Haritada"" başlığı altında hangi konular işlenmektedir?","""Ülkemin Güzellikleri Haritada"" başlığı altında yeryüzü şekilleri ve Türkiye'de görülen iklimler işlenmektedir.",Olgusal,4
+"""Süper Test Çözümleri"" bölümü ne işe yarar?","""Süper Test Çözümleri"" bölümü, Süper Testlerdeki soruların doğru cevaplarını ve çözüm yöntemlerini sunarak öğrencilerin anlamadığı noktaları gidermesine yardımcı olur.",Kavramsal,4
+Bu doküman en çok hangi konuları içermektedir?,"Bu doküman en çok testleri, alıştırmaları ve coğrafya konularını içermektedir.",Analitik,4
+"""Dünya'nın Neresindeyim?"" başlığı altında hangi konulara değinilmektedir?","""Dünya'nın Neresindeyim?"" başlığı altında paralel ve meridyenler, Türkiye'nin coğrafi konumu, kıtalar ve okyanuslar konularına değinilmektedir.",Olgusal,4
+Bu dokümanın hedef kitlesi kim olabilir?,"Bu dokümanın hedef kitlesi, coğrafya dersi alan öğrenciler olabilir.",Varsayımsal,4
+"""Ülkemin Zenginlikleri Haritada"" bölümünde hangi tür bilgiler yer alması beklenir?","""Ülkemin Zenginlikleri Haritada"" bölümünde, Türkiye'nin doğal kaynakları, ekonomik faaliyetleri ve bu faaliyetlerin harita üzerindeki dağılımı gibi bilgilerin yer alması beklenir.",Spekülatif,4
+Bu dokümanda kaç farklı test türü bulunmaktadır?,"Bu dokümanda EBA Pekiştirme Testi, Ünite Geliştirme Testi, Süper Test ve Baştan Sona Testleri olmak üzere dört farklı test türü bulunmaktadır.",Listeleme,4
+"""Çevremizde Kimler Yaşıyor?"" bölümünde hangi konular ele alınabilir?","""Çevremizde Kimler Yaşıyor?"" bölümünde nüfus, yerleşim yerleri, demografik özellikler gibi konular ele alınabilir.",Spekülatif,4
+Bu dokümanın amacı nedir?,"Bu dokümanın amacı, öğrencilere coğrafya konularını öğretmek, pekiştirmek ve değerlendirmek için çeşitli materyaller sunmaktır.",Kavramsal,4
+4. Ünitenin başlığı nedir?,"4. Ünitenin başlığı Bilim, Teknoloji ve Toplum'dur.",Olgusal,5
+4. Ünitede hangi konular işlenmektedir?,"4. Ünitede Sosyal Bilimler ve Toplum, Hayalimdeki Gelecek, Araştırma Yapıyorum, Emek Bir Hazinedir gibi konular işlenmektedir.",Listeleme,5
+5. Ünitenin ana teması nedir?,"5. Ünitenin ana teması Üretim, Dağıtım ve Tüketim'dir.",Kavramsal,5
+5. Ünitede yer alan 'Kaynaklarımız Kazanca Dönüşüyor' başlığı neyi ifade ediyor olabilir?,"'Kaynaklarımız Kazanca Dönüşüyor' başlığı, doğal veya insan kaynaklarının ekonomik değere dönüştürülmesini ifade ediyor olabilir.",Yorumlayıcı,5
+Ünite geliştirme testleri hangi ünitelerde bulunmaktadır?,Ünite geliştirme testleri hem 4. hem de 5. ünitede bulunmaktadır.,Olgusal,5
+Metinde 'Yeni Nesil Sorular' ifadesi ne anlama geliyor?,"'Yeni Nesil Sorular' ifadesi, klasik soru tiplerinden farklı, daha çok muhakeme ve problem çözme becerilerini ölçen soruları ifade ediyor olabilir.",Yorumlayıcı,5
+Baştan Sona Testleri hangi üniteleri kapsamaktadır?,"Baştan Sona Testleri, 4. üniteye kadar olan konuları (1-4. Üniteler) ve 5. üniteye kadar olan konuları (1-5. Üniteler) kapsamaktadır.",Olgusal,5
+Emek neden bir hazine olarak nitelendirilmektedir?,"Emek, bir toplumun gelişimi ve refahı için temel bir unsur olduğu için bir hazine olarak nitelendirilmektedir.",Nedensel,5
+Metinde 'PRF Yayınları' ifadesi neyi belirtmektedir?,"'PRF Yayınları' ifadesi, bu metnin veya kitabın yayıncısını belirtmektedir.",Olgusal,5
+Vergilerin 'Aydınlık Yarınlara' katkısı nasıl olabilir?,"Vergiler, devletin eğitim, sağlık, altyapı gibi alanlarda yatırım yapmasını sağlayarak toplumun geleceğine katkıda bulunur, bu nedenle 'Aydınlık Yarınlara' katkısı vardır.",Nedensel,5
+Nitelikli insan neden güçlü bir Türkiye için önemlidir?,"Nitelikli insan, bilgi ve becerileriyle ülkenin ekonomik, sosyal ve teknolojik gelişimine katkıda bulunduğu için güçlü bir Türkiye için önemlidir.",Nedensel,5
+Bu metnin amacı nedir?,"Bu metnin amacı, öğrencilere sosyal bilimler, teknoloji, toplum, üretim, dağıtım ve tüketim gibi konularda bilgi vermek ve bu konularda farkındalık yaratmaktır.",Kavramsal,5
+Meslek seçimi neden önemlidir?,"Meslek seçimi, bireyin gelecekteki yaşamını, kariyerini ve mutluluğunu doğrudan etkilediği için önemlidir.",Nedensel,5
+Alıştırma - Uygulama bölümlerinin amacı nedir?,"Alıştırma - Uygulama bölümlerinin amacı, öğrencilerin öğrendikleri bilgileri pekiştirmelerini ve uygulamalarını sağlamaktır.",Yöntemsel,5
+EBA Pekiştirme Testleri ne işe yarar?,"EBA Pekiştirme Testleri, öğrencilerin Eğitim Bilişim Ağı (EBA) üzerinden öğrendikleri konuları tekrar etmelerini ve bilgilerini pekiştirmelerini sağlar.",Yöntemsel,5

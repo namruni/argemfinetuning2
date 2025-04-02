@@ -20,7 +20,7 @@ class Config:
     """Program yapılandırması"""
     # Varsayılan değerler
     DEFAULT_BATCH_SIZE = 5  # Her batch'te kaç sayfa işleneceği
-    DEFAULT_QUESTIONS_PER_PAGE = 10  # Her sayfa için kaç soru üretileceği
+    DEFAULT_QUESTIONS_PER_PAGE = 15  # Her sayfa için kaç soru üretileceği
     DEFAULT_MODEL = "gemini-2.0-flash"  # Kullanılacak model
     DEFAULT_OUTPUT_FORMAT = "csv"  # Çıktı formatı
     
@@ -67,20 +67,34 @@ class PDFProcessor:
         Returns:
             Her bir sayfa için metin listesi
         """
+        print(f"DEBUG: PDF dosyası metne dönüştürülmeye başlanıyor: {pdf_path}")
         if not os.path.exists(pdf_path):
+            print(f"HATA: PDF dosyası bulunamadı: {pdf_path}")
             raise FileNotFoundError(f"PDF dosyası bulunamadı: {pdf_path}")
         
         try:
+            print(f"DEBUG: pymupdf ile PDF açılıyor: {pdf_path}")
             doc = pymupdf.open(pdf_path)
             print(f"Belge toplam {doc.page_count} sayfa içeriyor")
         except Exception as e:
+            print(f"HATA: PDF açılırken sorun oluştu: {e}")
             raise IOError(f"PDF açılırken hata oluştu: {pdf_path}. Hata: {e}")
         
         page_texts = []
-        for page_num in range(doc.page_count):
-            page = doc[page_num]
-            page_texts.append(page.get_text())
+        print("DEBUG: Sayfalar metne dönüştürülüyor...")
+        try:
+            for page_num in range(doc.page_count):
+                print(f"DEBUG: Sayfa {page_num+1}/{doc.page_count} işleniyor...")
+                page = doc[page_num]
+                text = page.get_text()
+                # Çok uzun metinlerin uzunluğunu yazdırmayı engelle
+                print(f"DEBUG: Sayfa {page_num+1} metin uzunluğu: {len(text)} karakter")
+                page_texts.append(text)
+        except Exception as e:
+            print(f"HATA: Sayfa {page_num+1} metne dönüştürülürken sorun oluştu: {e}")
+            raise
             
+        print(f"DEBUG: Toplam {len(page_texts)} sayfa metne çevrildi.")
         return page_texts
 
 
@@ -113,6 +127,8 @@ class QAGenerator:
         Returns:
             Soru-cevap çiftleri listesi
         """
+        print(f"DEBUG: Gemini modeli kullanılarak soru-cevap çiftleri oluşturuluyor")
+        print(f"DEBUG: Kullanılan model: {self.config.model}, sıcaklık: {self.config.temperature}")
         # Zengin sistem talimatı
         system_instruction = """
 # Görevin:
@@ -500,8 +516,16 @@ class FineTuneDatasetGenerator:
             pdf_path: PDF dosyasının yolu
             output_prefix: Çıktı dosyalarının öneki (belirtilmezse PDF adı kullanılır)
         """
+        # Hata ayıklama logu ekle
+        print(f"DEBUG: generate_dataset başladı - pdf_path: {pdf_path}, output_prefix: {output_prefix}")
         # PDF'i metin olarak oku
-        page_texts = self.pdf_processor.convert_pdf_to_text(pdf_path)
+        try:
+            print("PDF metni çıkarılıyor...")
+            page_texts = self.pdf_processor.convert_pdf_to_text(pdf_path)
+            print(f"DEBUG: PDF'den {len(page_texts)} sayfa metin çıkarıldı")
+        except Exception as e:
+            print(f"HATA: PDF metni çıkarılırken sorun oluştu: {str(e)}")
+            raise
         
         # Çıktı dosyası öneğini belirle
         if not output_prefix:
@@ -566,6 +590,15 @@ def find_pdf_files(sort_alphabetically=True):
 
 def main():
     """Ana program"""
+    # Program başlangıcı mesajı
+    print("\n============================================")
+    print("PDF'den Fine-Tuning Veri Seti Oluşturma Aracı")
+    print("============================================\n") 
+    # API anahtarını kontrol et
+    api_key = os.environ.get("GOOGLE_API_KEY")
+    if not api_key:
+        print("UYARI: GOOGLE_API_KEY çevre değişkeni bulunamadı.")
+        print("Ya --api-key parametresi kullanın ya da GOOGLE_API_KEY çevre değişkenini ayarlayın.")
     # Komut satırı argümanlarını tanımla
     parser = argparse.ArgumentParser(description="PDF'den fine-tuning için veri seti oluşturur")
     
@@ -574,8 +607,8 @@ def main():
     parser.add_argument("--all", action="store_true", help="Bulunan tüm PDF dosyalarını işle")
     parser.add_argument("--output", "-o", help="Çıktı dosyalarının öneki")
     parser.add_argument("--output-dir", help="Çıktıların kaydedileceği dizin")
-    parser.add_argument("--merge-all", action="store_true", default=None, 
-                      help="Tüm kitapların çıktılarını tek bir CSV dosyasında birleştir (birden fazla PDF işlenirken varsayılandır)")
+    parser.add_argument("--no-merge", action="store_true", default=False, 
+                      help="Tüm kitapların çıktılarını tek bir CSV dosyasında birleştirme")
     parser.add_argument("--api-key", help="Google API anahtarı (belirtilmezse GOOGLE_API_KEY çevre değişkeni kullanılır)")
     parser.add_argument("--model", default=Config.DEFAULT_MODEL, 
                       help=f"Kullanılacak model (varsayılan: {Config.DEFAULT_MODEL})")
@@ -638,7 +671,9 @@ def main():
     
     # PDF belirtilmemişse, otomatik bul
     else:
+        print("PDF dosyası otomatik olarak aranıyor...")
         auto_pdf_files = find_pdf_files()
+        print(f"DEBUG: {len(auto_pdf_files)} PDF dosyası bulundu: {auto_pdf_files}")
         if not auto_pdf_files:
             print("Hata: Herhangi bir PDF dosyası bulunamadı. Lütfen PDF dosyasının yolunu belirtin.")
             return 1
@@ -663,8 +698,7 @@ def main():
                 if not response.strip() or response.lower() == 'hepsi' or args.all:
                     print("Tüm PDF'ler sırayla işlenecek...")
                     pdf_files_to_process.extend(auto_pdf_files)
-                    # Varsayılan olarak birleştirme özelliğini etkinleştir
-                    args.merge_all = True
+                    # Varsayılan olarak birleştirme özelliği zaten etkin
                 else:
                     indices = [int(idx.strip()) - 1 for idx in response.split(',') if idx.strip()]
                     for idx in indices:
@@ -672,10 +706,7 @@ def main():
                             pdf_files_to_process.append(auto_pdf_files[idx])
                         else:
                             print(f"Uyarı: {idx+1} geçerli bir seçim değil, atlanıyor.")
-                    # Birden fazla PDF seçildiğinde varsayılan olarak birleştir
-                    if len(indices) > 1:
-                        if args.merge_all is None:
-                            args.merge_all = True
+                    # Birleştirme her zaman varsayılan olarak etkin, özellikle devre dışı bırakılmadıysa
             except ValueError:
                 print("Geçersiz giriş, işlem iptal ediliyor.")
                 return 1
@@ -706,22 +737,30 @@ def main():
         print(f"PDF {i+1}/{len(pdf_files_to_process)} işleniyor: {pdf_path}")
         print(f"==============================================")
         
-        # Çıktı dosya isimlendirmesi
+        # PDF için klasör adı oluştur
         if args.output:
             if len(pdf_files_to_process) > 1:
                 # Birden fazla PDF için dosya adına indeks ekle
-                base_output = f"{args.output}_{i+1}"
+                folder_name = f"{args.output}_{i+1}"
             else:
-                base_output = args.output
+                folder_name = args.output
         else:
             # PDF adını kullan
-            base_output = os.path.splitext(os.path.basename(pdf_path))[0]
+            folder_name = os.path.splitext(os.path.basename(pdf_path))[0]
         
-        # Çıktı dizini belirtilmişse yolu birleştir
+        # PDF için özel klasör oluştur
         if output_dir:
-            output_prefix = os.path.join(output_dir, base_output)
+            pdf_output_dir = os.path.join(output_dir, folder_name)
         else:
-            output_prefix = base_output
+            pdf_output_dir = folder_name
+        
+        # Klasörü oluştur
+        os.makedirs(pdf_output_dir, exist_ok=True)
+        print(f"PDF çıktıları için klasör oluşturuldu: {pdf_output_dir}")
+        
+        # Çıktı dosyasının öneki (PDF klasörü içindeki temel dosya adı)
+        base_output = folder_name
+        output_prefix = os.path.join(pdf_output_dir, base_output)
         
         # PDF'i işle
         try:
@@ -729,7 +768,7 @@ def main():
             
             # Son merge dosyasını all_output_files listesine ekle
             try:
-                if args.merge_all:
+                if not args.no_merge:
                     # PDF için tüm batch'ı işledikten sonraki birleştirilmiş dosya
                     final_output = f"{output_prefix}.{config.output_format}"
                     
@@ -746,8 +785,17 @@ def main():
             continue
     
     # Tüm kitapların çıktılarını birleştir
-    if (args.merge_all or len(pdf_files_to_process) > 1) and len(all_output_files) > 1:
+    if not args.no_merge and len(all_output_files) > 0:
         print("\nTüm kitapların çıktıları birleştiriliyor...")
+        
+        # Ana çıktı klasörü oluştur
+        merged_dir = "birlestirilmis_ciktilar"
+        if output_dir:
+            merged_dir = os.path.join(output_dir, merged_dir)
+        
+        # Klasörü oluştur
+        os.makedirs(merged_dir, exist_ok=True)
+        print(f"Birleştirilmiş çıktılar için klasör oluşturuldu: {merged_dir}")
         
         # Birleştirilmiş dosya adı
         if args.output:
@@ -760,8 +808,10 @@ def main():
             else:
                 merged_output = "tüm_kitaplar_birleşik"
         
-        if output_dir:
-            merged_output = os.path.join(output_dir, merged_output)
+        print(f"DEBUG: Birleştirilecek dosyalar: {valid_files}")
+        
+        # Birleştirilmiş çıktının tam yolu
+        merged_output = os.path.join(merged_dir, merged_output)
         
                 # Birleştirilecek dosya listesini kontrol et
         valid_files = [f for f in all_output_files if os.path.exists(f)]
@@ -770,8 +820,8 @@ def main():
             print("Uyarı: Birleştirilecek geçerli dosya bulunamadı.")
         else:
             print(f"Birleştiriliyor: {len(valid_files)} dosya")
-            # Tüm dosyaları birleştir (varsayılan olarak CSV olarak birleştir)
-            # Birleştirme için formatı CSV olarak ayarla
+            # Tüm dosyaları her zaman CSV formatında birleştir (kullanıcı her format için çıktı üretebilir,
+            # ama birleştirme her zaman CSV'de yapılacak)
             merge_config = Config(
                 api_key=config.api_key,
                 model=config.model,
@@ -783,7 +833,8 @@ def main():
             
             OutputManager(merge_config).merge_multiple_files(valid_files, merged_output)
         
-        print(f"Tüm kitaplar başarıyla birleştirildi: {merged_output}.csv")
+        print(f"Tüm kitaplar başarıyla tek bir CSV'de birleştirildi: {merged_output}.csv")
+        print(f"CSV dosyası şu konumda: {os.path.abspath(merged_output)}.csv")
     
     print(f"\nTüm işlemler tamamlandı. {len(pdf_files_to_process)} PDF dosyası işlendi.")
     return 0
@@ -791,7 +842,13 @@ def main():
 
 if __name__ == "__main__":
     try:
+        print("Program başlıyor...")
         exit(main())
     except KeyboardInterrupt:
         print("\nİşlem kullanıcı tarafından durduruldu.")
+        exit(1)
+    except Exception as e:
+        print(f"\nBeklenmeyen bir hata oluştu: {str(e)}")
+        import traceback
+        traceback.print_exc()
         exit(1)

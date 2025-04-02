@@ -1,0 +1,76 @@
+question,answer,question_type,page
+Bu belgenin temel amacı nedir?,"Bu belge, çeşitli testlerin cevap anahtarlarını sunmaktadır.",Olgusal,91
+Belgede hangi ünitelerin tekrar testleri bulunmaktadır?,Belgede 1-6. ünitelerin tekrar testleri bulunmaktadır.,Olgusal,91
+Belgedeki 'Ticari İlişkilerimiz' testinde kaç soru bulunmaktadır?,'Ticari İlişkilerimiz' testinde 12 soru bulunmaktadır.,Olgusal,91
+'Lider Türkiye' testi hangi yayın kuruluşuna aittir?,Belgede yayın kuruluşu bilgisi belirtilmemiştir. Testin başlığı 'Lider Türkiye'dir.,Olgusal,91
+'Komşularımız ve Kardeşlerimiz' testi hangi üniteyi kapsamaktadır?,'Komşularımız ve Kardeşlerimiz' testi 7. ünite olan 'Küresel Bağlantılar' konusunu kapsamaktadır.,Olgusal,91
+'Kültürümüze Sahip Çıkalım' testinde kaç soru bulunmaktadır?,'Kültürümüze Sahip Çıkalım' testinde 10 soru bulunmaktadır.,Olgusal,91
+Belgedeki testlerdeki soru sayılarında bir tutarlılık var mı?,"Hayır, testlerdeki soru sayıları değişiklik göstermektedir. Bazı testler 9 sorudan oluşurken, bazıları 10, 11 veya 12 sorudan oluşmaktadır.",Analitik,91
+Bu cevap anahtarlarının kimler için faydalı olması beklenir?,"Bu cevap anahtarlarının, ilgili testleri çözen öğrencilerin kendi cevaplarını kontrol etmeleri ve performanslarını değerlendirmeleri için faydalı olması beklenir.",Yansıtıcı,91
+Belgede 'PRF Yayınları' ifadesi ne anlama gelmektedir?,"'PRF Yayınları' ifadesi, bu testlerin yayıncısının adını belirtmektedir.",Olgusal,91
+"Bu belgenin formatı, öğrenme sürecinde nasıl bir rol oynar?","Cevap anahtarı formatı, öğrencilerin kendi öğrenme süreçlerini takip etmelerini ve eksiklerini belirlemelerini kolaylaştırır.",Yansıtıcı,91
+"Eğer bu cevap anahtarları olmasaydı, öğrencilerin test sonuçlarını değerlendirme süreçleri nasıl etkilenirdi?","Cevap anahtarları olmasaydı, öğrencilerin test sonuçlarını değerlendirmeleri daha zor ve zaman alıcı olurdu. Öğretmenlerine veya başka kaynaklara başvurmak zorunda kalabilirlerdi.",Varsayımsal,91
+"Bu cevap anahtarları, öğretmenlerin iş yükünü nasıl etkiler?","Bu cevap anahtarları, öğretmenlerin her bir öğrencinin testini tek tek kontrol etme ihtiyacını azaltarak iş yükünü hafifletir.",Yansıtıcı,91
+Belgede hangi konulara ait testler bulunmaktadır?,"Belgede 'Baştan Sona Testleri (1 - 6. Ünitelerin Tekrarı)', 'Ticari İlişkilerimiz', 'Lider Türkiye', '7. Ünite: Küresel Bağlantılar', 'Komşularımız ve Kardeşlerimiz', 'Kültürümüze Sahip Çıkalım' gibi konulara ait testler bulunmaktadır.",Listeleme,91
+Bu cevap anahtarlarının dijital ortamda sunulmasının avantajları nelerdir?,"Dijital ortamda sunulması, kolay erişilebilirlik, arama kolaylığı ve çevre dostu olması gibi avantajlar sağlar.",Analitik,91
+Bu belgeden çıkarılacak ana ders nedir?,"Bu belgeden çıkarılacak ana ders, çeşitli konulardaki testlerin cevap anahtarlarının düzenli bir şekilde sunulmasının, öğrenme ve değerlendirme süreçlerini kolaylaştırdığıdır.",Özetleme,91
+Süper Test'in 1. sorusunun cevabı nedir?,Süper Test'in 1. sorusunun cevabı B'dir.,Olgusal,92
+Test - 9'un 2. sorusunun doğru cevabı hangi seçenektir?,Test - 9'un 2. sorusunun doğru cevabı B seçeneğidir.,Olgusal,92
+Yeni Nesil Sorular testinin 5. sorusunun cevabı nedir?,Yeni Nesil Sorular testinin 5. sorusunun cevabı D'dir.,Olgusal,92
+EBA Pekiştirme Testi'nin 7. sorusunun cevabı nedir?,EBA Pekiştirme Testi'nin 7. sorusunun cevabı B'dir.,Olgusal,92
+Ünite Geliştirme Testi - 1'in 10. sorusunun cevabı nedir?,Ünite Geliştirme Testi - 1'in 10. sorusunun cevabı C'dir.,Olgusal,92
+Test - 3'ün 4. sorusunun cevabı nedir?,Test - 3'ün 4. sorusunun cevabı B'dir.,Olgusal,92
+Test - 5'in 9. sorusunun cevabı nedir?,Test - 5'in 9. sorusunun cevabı D'dir.,Olgusal,92
+Baştan Sona Testleri'nin 6. sorusunun cevabı nedir?,Baştan Sona Testleri'nin 6. sorusunun cevabı B'dir.,Olgusal,92
+Test - 2'nin 8. sorusunun cevabı nedir?,Test - 2'nin 8. sorusunun cevabı A'dır.,Olgusal,92
+Test - 4'ün 12. sorusunun cevabı nedir?,Test - 4'ün 12. sorusunun cevabı B'dir.,Olgusal,92
+Test - 6'nın 3. sorusunun cevabı nedir?,Test - 6'nın 3. sorusunun cevabı B'dir.,Olgusal,92
+"Test - 8'deki Doğru-Yanlış bölümünde 5, 6 ve 7. soruların cevapları nedir?","Test - 8'deki Doğru-Yanlış bölümünde 5, 6 ve 7. soruların cevapları sırasıyla Y (Yanlış), Y (Yanlış) ve Y (Yanlış)'dir.",Olgusal,92
+Alıştırma - Uygulama (Test - 6) bölümündeki 1. boşluğa ne yazılmalıdır?,Alıştırma - Uygulama (Test - 6) bölümündeki 1. boşluğa 'Balkan Antantı' yazılmalıdır.,Olgusal,92
+Eşleştirme bölümünde 1 numaralı ifadenin içeriği nedir?,"Eşleştirme bölümünde 1 numaralı ifade 'Eşitlik, Tam bağımsızlık, Akılcılık, Barışçılık, Gerçekçilik' şeklindedir.",Olgusal,92
+Bu cevap anahtarı hangi yayın evine aittir?,Bu cevap anahtarı PRF Yayınları'na aittir.,Olgusal,92
+Soru-cevap çifti oluşturma görevinin temel amacı nedir?,"Verilen metinden, insanların sorabileceği çeşitli türlerde sorular üretmek ve bunlara kapsamlı yanıtlar sağlamaktır.",Olgusal,93
+Soru-cevap çiftlerinde dil tutarlılığı neden önemlidir?,"Soruların ve cevapların, verilen metnin diliyle aynı olması, anlaşılabilirliği ve tutarlılığı sağlamak için önemlidir.",Kavramsal,93
+Hangi tür soru çeşitleri oluşturulmalıdır?,"Olgusal, kavramsal, bağlamsal, nedensel, yöntemsel, analitik, varsayımsal, yansıtıcı, spekülatif, listeleme ve özetleme gibi farklı türlerde sorular oluşturulmalıdır.",Listeleme,93
+Neden 'Evet' veya 'Hayır' gibi kısa yanıtlardan kaçınılmalıdır?,"'Evet' veya 'Hayır' gibi kısa yanıtlardan kaçınılmalıdır çünkü cevap, bilginin ardındaki gerekçeyi anlamak için gerekli bağlamı sağlamalıdır.",Nedensel,93
+Bağlam farkındalığı soru-cevap çiftleri oluşturmada ne anlama gelir?,"Bağlam farkındalığı, tüm soruların verilen metnin içeriğine derinlemesine kök saldığından ve materyalin amacını ve nüanslarını anladığından emin olmayı ifade eder.",Kavramsal,93
+Tekrardan kaçınma neden önemlidir?,"Tekrardan kaçınma, tüm soruların belirgin ve benzersiz olmasını sağlayarak, gereksiz tekrarları önler ve daha kapsamlı bir soru yelpazesi sunar.",Nedensel,93
+Soru-cevap çiftlerindeki zorluk dengesi neyi ifade eder?,"Soru-cevap çiftlerindeki zorluk dengesi, basit, orta ve karmaşık soruların bir arada bulunmasını ifade eder. Bu, farklı seviyelerdeki okuyucuların içeriği anlamasına yardımcı olur.",Kavramsal,93
+Yanıt hassasiyeti nasıl sağlanmalıdır?,"Yanıt hassasiyeti, sağlanan içeriğe dayalı özlü ve doğru yanıtlar vererek sağlanmalıdır. Yanıtlar çok kısa olmamalı, ancak cevabı açıkça açıklamak için yeterli bağlam vermelidir.",Yöntemsel,93
+Soru-cevap çiftlerinin oluşturulma süreci hangi adımları içerir?,"Soru-cevap çiftlerinin oluşturulma süreci, metnin dilini belirleme, farklı türlerde sorular oluşturma, zorluk dengesini sağlama, yanıt hassasiyetini sağlama, bağlam farkındalığını koruma ve tekrardan kaçınma adımlarını içerir.",Yöntemsel,93
+"Eğer metin İngilizce olsaydı, soru-cevap çiftleri nasıl oluşturulurdu?","Eğer metin İngilizce olsaydı, sorular ve cevaplar da İngilizce olarak oluşturulurdu. Dil tutarlılığı ilkesi her zaman korunmalıdır.",Varsayımsal,93
+Bu görevin başarılı olup olmadığını nasıl değerlendiririz?,"Bu görevin başarılı olup olmadığını, oluşturulan soru-cevap çiftlerinin çeşitliliği, doğruluğu, bağlam farkındalığı ve tekrardan kaçınma ilkelerine uygunluğu ile değerlendiririz.",Analitik,93
+Neden sadece düz JSON verisi isteniyor?,"Sadece düz JSON verisi isteniyor çünkü bu format, makine tarafından kolayca ayrıştırılabilir ve kullanılabilir. Bu, verilerin otomatik olarak işlenmesini ve farklı sistemlere entegre edilmesini kolaylaştırır.",Nedensel,93
+Bu görevde kaç adet soru-cevap çifti oluşturulması isteniyor?,Bu görevde 15 adet soru-cevap çifti oluşturulması isteniyor.,Olgusal,93
+"Soru türlerinin çeşitliliğinin sağlanması, üretilen soru-cevap çiftlerinin kalitesini nasıl etkiler?","Soru türlerinin çeşitliliğinin sağlanması, üretilen soru-cevap çiftlerinin kalitesini artırır çünkü farklı bakış açılarından konuyu ele alarak daha kapsamlı bir öğrenme deneyimi sunar.",Yansıtıcı,93
+Soru-cevap çiftleri oluşturulurken dikkate alınması gereken temel etik hususlar nelerdir?,"Soru-cevap çiftleri oluşturulurken dikkate alınması gereken temel etik hususlar, yanıltıcı veya yanlış bilgilendirme yapmaktan kaçınmak, kaynakları doğru bir şekilde belirtmek ve telif haklarına saygı göstermektir.",Yansıtıcı,93
+Soru-cevap çiftleri oluşturmanın temel amacı nedir?,"Temel amaç, verilen metinden insanların sorabileceği çeşitli türlerde sorular üretmek ve bu sorulara kapsamlı yanıtlar sağlamaktır.",Olgusal,94
+Soru-cevap çiftleri oluşturulurken dil tutarlılığı neden önemlidir?,"Dil tutarlılığı, soruların ve cevapların verilen metnin diliyle aynı olmasını sağlayarak, anlaşılabilirliği ve erişilebilirliği artırır.",Kavramsal,94
+Soru türleri çeşitliliğinin sağlanmasının önemi nedir?,"Farklı soru türleri (olgusal, kavramsal, bağlamsal vb.) içeriğin farklı yönlerini ele alarak daha kapsamlı bir öğrenme deneyimi sunar.",Kavramsal,94
+Hangi soru türleri belirtilmiştir?,"Olgusal, Kavramsal, Bağlamsal, Nedensel, Yöntemsel, Analitik, Varsayımsal, Yansıtıcı, Spekülatif, Listeleme, Özetleme soru türleri belirtilmiştir.",Listeleme,94
+Yanıtların hassasiyeti ne anlama gelir ve neden önemlidir?,"Yanıt hassasiyeti, sağlanan içeriğe dayalı özlü ve doğru yanıtlar vermeyi ifade eder. Bu, bilginin doğru ve etkili bir şekilde aktarılmasını sağlar.",Kavramsal,94
+"""Evet"" veya ""Hayır"" gibi kısa yanıtlardan neden kaçınılmalıdır?","""Evet"" veya ""Hayır"" gibi kısa yanıtlar, bilginin ardındaki gerekçeyi anlamak için gerekli bağlamı sağlamadığından kaçınılmalıdır.",Nedensel,94
+Bağlam farkındalığı soru oluşturma sürecinde neden önemlidir?,"Bağlam farkındalığı, soruların verilen metnin içeriğine derinlemesine kök salmasını ve materyalin amacını ve nüanslarını anlamasını sağlar.",Kavramsal,94
+Soru-cevap çiftleri oluşturulurken tekrardan kaçınmanın faydası nedir?,"Tekrardan kaçınma, her sorunun belirgin ve benzersiz olmasını sağlayarak, gereksiz bilgiden kaçınılmasını ve öğrenme sürecinin verimliliğini artırır.",Kavramsal,94
+"Eğer metin İngilizce ise, soru ve cevaplar hangi dilde olmalıdır?","Eğer metin İngilizce ise, soru ve cevaplar da İngilizce olmalıdır. Dil tutarlılığı esastır.",Varsayımsal,94
+Soru-cevap çiftleri oluştururken hangi zorluk seviyelerinde sorular sorulmalıdır?,"Basit, orta ve karmaşık olmak üzere farklı zorluk seviyelerinde sorular sorulmalıdır.",Yöntemsel,94
+Soru-cevap çiftlerinin JSON formatında verilmesinin nedeni nedir?,"JSON formatı, verilerin yapılandırılmış ve makine tarafından okunabilir bir şekilde saklanmasını ve işlenmesini sağlar.",Nedensel,94
+Soru-cevap oluşturma sürecinde 'özlü' yanıt ne anlama gelir?,"'Özlü' yanıt, cevabı açıkça açıklamak için yeterli bağlamı verirken gereksiz ayrıntılardan kaçınmayı ifade eder.",Kavramsal,94
+Soru-cevap çiftleri oluşturulurken metnin amacı ve nüansları neden dikkate alınmalıdır?,"Metnin amacı ve nüansları dikkate alınarak, soruların ve cevapların metnin özünü doğru bir şekilde yansıtması ve anlamlı bir öğrenme deneyimi sunması sağlanır.",Nedensel,94
+Soru-cevap çiftleri oluşturma görevinin çıktıları hangi formatta sunulmalıdır?,Soru-cevap çiftleri doğrudan JSON formatında sunulmalıdır; markdown işaretleri veya ek açıklamalar kullanılmamalıdır.,Yöntemsel,94
+Soru-cevap oluşturma sürecinde hangi tür soruların sonuçlar veya etkiler hakkında bilgi edinmeyi amaçladığı söylenebilir?,"Yansıtıcı sorular, bir konunun sonuçları veya etkileri hakkında bilgi edinmeyi amaçlar.",Analitik,94
+Soru-cevap çiftleri oluşturma görevinde temel amaç nedir?,"Temel amaç, verilen metinden insanların sorabileceği çeşitli türlerde sorular üretmek ve bunlara kapsamlı yanıtlar sağlamaktır.",Olgusal,95
+Soru ve cevapların dil tutarlılığı neden önemlidir?,"Dil tutarlılığı, soruların ve cevapların verilen metnin diliyle aynı olmasını sağlayarak, anlaşılabilirliği ve bilginin doğru aktarımını kolaylaştırır.",Kavramsal,95
+Hangi türde sorular dahil edilmelidir?,"Olgusal, kavramsal, bağlamsal, nedensel, yöntemsel, analitik, varsayımsal, yansıtıcı, spekülatif, listeleme ve özetleme gibi farklı türlerde sorular dahil edilmelidir.",Listeleme,95
+Neden 'Evet' veya 'Hayır' gibi kısa cevaplardan kaçınılmalıdır?,'Evet' veya 'Hayır' gibi kısa cevaplardan kaçınılmalıdır çünkü bu tür cevaplar bilginin ardındaki gerekçeyi anlamak için gerekli bağlamı sağlamaz.,Nedensel,95
+Bağlam farkındalığı neden önemlidir?,"Bağlam farkındalığı, tüm soruların verilen metnin içeriğine derinlemesine kök salmasını ve materyalin amacını ve nüanslarını anlamasını sağlar.",Kavramsal,95
+Soru-cevap çiftleri oluştururken zorluk dengesi nasıl sağlanmalıdır?,"Basit, orta ve karmaşık sorular dahil edilerek zorluk dengesi sağlanmalıdır, böylece farklı bilgi seviyelerine hitap edilir.",Yöntemsel,95
+Yanıt hassasiyeti ne anlama gelir?,"Yanıt hassasiyeti, sağlanan içeriğe dayalı özlü ve doğru yanıtlar vermeyi ifade eder. Yanıtlar, cevabı açıkça açıklamak için yeterli bağlamı içermelidir.",Olgusal,95
+Tekrardan kaçınmanın önemi nedir?,"Tekrardan kaçınmak, tüm soruların belirgin ve benzersiz olmasını sağlayarak, gereksiz tekrarı önler ve bilginin daha verimli sunulmasına yardımcı olur.",Kavramsal,95
+Metinde bahsedilen soru türlerinden 'nedensel' soruya bir örnek verin.,"'X'e ne sebep olur?' sorusu, metinde bahsedilen nedensel soru türüne bir örnektir.",Olgusal,95
+Oluşturulan soru-cevap çiftlerinin kalitesi nasıl değerlendirilir?,"Oluşturulan soru-cevap çiftlerinin kalitesi, dil tutarlılığı, soru çeşitliliği, zorluk dengesi, yanıt hassasiyeti, bağlam farkındalığı ve tekrardan kaçınma gibi kriterlere göre değerlendirilir.",Analitik,95
+"Metinde 'X' ile kastedilen nedir, 'X' her zaman aynı şeyi mi ifade eder?",Metinde 'X' genel bir yer tutucudur ve bağlama bağlı olarak farklı anlamlara gelebilir. 'X' her zaman aynı şeyi ifade etmez; içeriğe göre değişir.,Bağlamsal,95
+Varsayımsal bir soruya örnek verin.,"'X olursa ne olur?' sorusu, varsayımsal bir soruya örnektir ve hayali senaryoları temel alır.",Olgusal,95
+Soru-cevap çifti oluşturma sürecinde hangi adımlar izlenir?,"Süreç, metnin dilini belirleme, farklı türlerde sorular oluşturma, kapsamlı yanıtlar sağlama, zorluk dengesini sağlama, yanıt hassasiyetini sağlama, bağlam farkındalığını sağlama ve tekrardan kaçınma adımlarını içerir.",Yöntemsel,95
+"Eğer bu talimatlar olmasaydı, soru-cevap çiftleri oluşturma görevi nasıl farklı olurdu?","Eğer bu talimatlar olmasaydı, soru-cevap çiftleri daha az yapılandırılmış, daha az çeşitli ve potansiyel olarak daha düşük kalitede olabilirdi. Talimatlar, görevin tutarlı ve yüksek kalitede tamamlanmasını sağlar.",Varsayımsal,95
+Bu metinden çıkarılacak ana ders nedir?,"Bu metinden çıkarılacak ana ders, yüksek kaliteli soru-cevap çiftleri oluşturmanın, dil tutarlılığı, soru çeşitliliği, zorluk dengesi, yanıt hassasiyeti, bağlam farkındalığı ve tekrardan kaçınma gibi çeşitli faktörlere dikkat etmeyi gerektirdiğidir.",Özetleme,95

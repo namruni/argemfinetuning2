@@ -1,0 +1,76 @@
+question,answer,question_type,page
+Bu değerlendirme formunun amacı nedir?,"Bu formun amacı, öğrencinin ünite boyunca gösterdiği performansı değerlendirmesine ve anlamadığı noktaları belirlemesine yardımcı olmaktır.",Kavramsal,156
+Formda hangi türden sorular bulunmaktadır?,"Formda, öğrencinin derse katılımı, anlama düzeyi ve görevleri tamamlama gibi konularda kendini değerlendirebileceği ölçütler ve açık uçlu sorular bulunmaktadır.",Listeleme,156
+"""X"" işareti neyi ifade etmektedir?","""X"" işareti, öğrencinin ilgili ölçüte ne derece katıldığını belirtmek için kullandığı bir işarettir.",Olgusal,156
+"Öğrenci, anlayamadığı konular hakkında ne yapması önerilmektedir?","Öğrencinin, anlayamadığı konular hakkında farklı kaynaklardan bilgi edinmesi önerilmektedir.",Yöntemsel,156
+Ders esnasında yardıma ihtiyaç duyan bir öğrenci ne yapmalıdır?,"Ders esnasında yardıma ihtiyaç duyan bir öğrenci, öğretmeninden ve arkadaşlarından yardım almalıdır.",Yöntemsel,156
+Öğrencinin derse hazırlıklı gelmesi neden önemlidir?,"Derse hazırlıklı gelmek, öğrencinin konuyu daha iyi anlamasına ve derse aktif olarak katılmasına yardımcı olur.",Nedensel,156
+Sınıf içi tartışmalara katılmanın faydaları nelerdir?,"Sınıf içi tartışmalara katılmak, öğrencinin farklı bakış açılarını görmesini, düşüncelerini ifade etmesini ve konuyu daha derinlemesine anlamasını sağlar.",Yansıtıcı,156
+Verilen görevleri zamanında yerine getirmek neden önemlidir?,"Verilen görevleri zamanında yerine getirmek, öğrencinin sorumluluk bilincini geliştirmesine ve konuyu pekiştirmesine yardımcı olur.",Nedensel,156
+"Öğrenci, ünitenin işlenişinde başarılı olmadığını düşünüyorsa ne yapmalıdır?","Öğrenci, başarısını arttırmak için neler yapabileceğini planlamalı ve bu planı uygulamaya koymalıdır.",Yöntemsel,156
+"Formda ""Kararsızım"" seçeneği ne anlama gelmektedir?","""Kararsızım"" seçeneği, öğrencinin ilgili ölçüt hakkında net bir fikri olmadığını veya emin olmadığını ifade eder.",Olgusal,156
+"Bu form, öğrencinin kendi öğrenme sürecine nasıl katkıda bulunur?","Bu form, öğrencinin güçlü ve zayıf yönlerini belirlemesine, öğrenme stratejilerini geliştirmesine ve daha bilinçli bir öğrenci olmasına yardımcı olur.",Analitik,156
+"Öğrenci, en çok hoşlandığı konu veya etkinliği neden açıklamalıdır?","Öğrencinin en çok hoşlandığı konu veya etkinliği açıklaması, öğrenme tercihlerini anlamasına ve gelecekteki öğrenme deneyimlerini bu tercihlere göre şekillendirmesine yardımcı olur.",Nedensel,156
+Bu değerlendirme formu sadece öğrenciye mi yöneliktir?,"Evet, bu değerlendirme formu öncelikle öğrencinin kendi performansını değerlendirmesi için tasarlanmıştır, ancak cevaplar öğretmen ve arkadaşlarla da paylaşılabilir.",Bağlamsal,156
+Öğrencinin düzenli olarak not alması neden önemlidir?,"Öğrencinin düzenli olarak not alması, derste işlenen bilgileri hatırlamasına, anlamasına ve daha sonra tekrar etmesine yardımcı olur.",Nedensel,156
+Bu formdaki sorulara verilen cevaplar ne şekilde kullanılabilir?,"Bu formdaki sorulara verilen cevaplar, öğrencinin kendi gelişimini takip etmesi, öğretmeninin öğrenciye geri bildirim vermesi ve dersin içeriğinin ve yöntemlerinin iyileştirilmesi için kullanılabilir.",Yansıtıcı,156
+Tıp bilimi hangi bilim dallarından biridir?,"Tıp, sosyal bilim dallarından biri değildir. Temel olarak biyoloji ve kimya gibi fen bilimleriyle ilişkilidir.",Olgusal,157
+Renklerin insan davranışlarına etkisi hangi bilim dalının konusudur?,"Renklerin insan davranışlarına etkisi sosyoloji biliminin değil, psikoloji biliminin araştırma konusudur.",Olgusal,157
+Eğitim alanında gelecekte robotlardan yararlanılması planlanmakta mıdır?,"Evet, gelecekte eğitim alanında robotlardan yararlanılması planlanmaktadır.",Olgusal,157
+Teknolojik gelişmelerin temiz enerji kaynaklarının kullanımına etkisi nedir?,"Teknolojik gelişmeler, temiz enerji kaynaklarının kullanımını arttırmaktadır.",Nedensel,157
+Bilimsel araştırmalarda izlenen sıra nasıldır?,"Bilimsel araştırmalarda önce kaynak taraması yapılır, daha sonra varsayımlarda bulunulur ifadesi yanlıştır. Genellikle önce bir problem belirlenir, kaynak taraması yapılır, hipotezler oluşturulur ve sonra test edilir.",Yöntemsel,157
+Bilimsel araştırmalarda ne tür kaynaklardan yararlanılmalıdır?,Bilimsel araştırmalarda farklı türde kaynaklardan yararlanılmalıdır.,Olgusal,157
+Taklit ürünlerin kullanımı sağlığı nasıl etkileyebilir?,Taklit ürünler kullanmak sağlık sorunlarına yol açabilmektedir.,Nedensel,157
+Gelişmiş ülkelerin patent başvurularıyla ilgili ortak özelliği nedir?,"Gelişmiş ülkelerin ortak özelliği patent başvurusunun az olması değil, tam tersine çok olmasıdır. İnovasyon ve teknolojiye verdikleri önem patent başvurularının sayısını artırır.",Olgusal,157
+Sosyal bilimlerden hangi bilim dalı toplumların geçmişteki hatalarından ders almasını sağlar?,"Sosyal bilimlerden tarih bilimi, toplumların geçmişte yapılan hatalardan ders almasını sağlar.",Olgusal,157
+Türkiye'de geliştirilen milli işletim sisteminin adı nedir?,"Ülkemizde geliştirilen PARDUS, millî bir işletim sistemidir.",Olgusal,157
+Yakın gelecekte hangi teknoloji sayesinde birçok ürün evde üretilebilecektir?,Yakın gelecekte üç boyutlu yazıcılar sayesinde birçok ürün evde üretilebilecektir.,Olgusal,157
+Gelecekte taşıtların hangi enerjiyle çalışacağı düşünülmektedir?,Günümüzde daha çok petrol ürünleriyle çalışan taşıtların gelecekte büyük oranda elektrik enerjisi ile çalışacağı düşünülmektedir.,Varsayımsal,157
+Araştırmalarda varsayımlara ne ad verilir?,Araştırdığınız bir konuyla ilgili varsayımlara hipotez denir.,Kavramsal,157
+Kişilerin eserleri üzerindeki haklarını ifade eden kavram nedir?,Telif hakkı kişinin eser veya ürünlerin kullanılması konusunda sahip olduğu hakları ifade etmektedir.,Kavramsal,157
+Bilimsel çalışmalarda kullanılan kaynaklar nerede belirtilir?,Bilimsel çalışmalarda yararlanılan kaynaklar kaynakça bölümünde gösterilir.,Yöntemsel,157
+Yukarıdaki genel ağ haberi hangi sosyal bilim dalıyla ilgilidir ve neden?,"Haber, Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) para politikasıyla ilgili olduğu için ekonomi ile ilgilidir.",Olgusal,158
+Üç boyutlu yazıcıların gelecekteki potansiyel etkisi nedir?,"Metinde belirtilen kişi, üç boyutlu yazıcılar sayesinde gelecekte dışarıdan satın aldığımız birçok ürünü evimizde kendimiz tasarlayıp yapabileceğimizi öngörmektedir.",Varsayımsal,158
+Ali'nin bilimsel araştırma sürecindeki mevcut aşaması nedir?,"Ali, kütüphanede araştırdığı konuyla ilgili kitap ve dergileri incelediği için konuyla ilgili kaynak taramasının yapılması aşamasındadır.",Olgusal,158
+İstanbul Yenikapı kazılarında bulunan Osmanlı Dönemi paraları hangi bilim dalının ilgi alanına girer?,Osmanlı Dönemi'ne ait paraların bulunması arkeoloji biliminin ilgi alanına girer.,Olgusal,158
+I. TBMM binasının Kurtuluş Savaşı Müzesi olarak düzenlenmesi hangi bilim dalıyla ilişkilendirilebilir?,I. TBMM binasının Kurtuluş Savaşı Müzesi olarak düzenlenmesi tarih bilimi ile ilişkilendirilebilir.,Olgusal,158
+Taksilerin birçok ülkede sarı renkte olmasının psikolojik nedeni nedir?,"Sarı renk, geçiciliğin ve dikkati çekiciliğin ifadesi olduğundan taksilerde kullanılır.",Nedensel,158
+Eskimoların 'iglo' adı verilen evleri inşa etmelerinin coğrafi sebebi nedir?,Eskimolar doğal bitki örtüsünün olmadığı yerlerde yaşadıkları için sıkıştırılmış kar ve buz bloklarından 'iglo' adı verilen evler yaparlar.,Nedensel,158
+Enflasyon görünümünde iyileşme sağlanana kadar TCMB'nin para politikasındaki duruşu nasıl olacaktır?,"TCMB, enflasyon görünümünde belirgin bir iyileşme sağlanana kadar para politikasındaki sıkı duruşunu kararlılıkla sürdüreceğini belirtmiştir.",Olgusal,158
+"Eğer üç boyutlu yazıcılar yaygınlaşırsa, tüketim alışkanlıklarımızda ne gibi değişiklikler olabilir?","Üç boyutlu yazıcıların yaygınlaşmasıyla, insanlar ihtiyaç duydukları ürünleri evlerinde üretebilecekleri için dışarıdan satın alma ihtiyacı azalabilir.",Varsayımsal,158
+Bilimsel araştırma sürecinde kaynak taramasının önemi nedir?,"Kaynak taraması, araştırma konusunun daha iyi anlaşılmasını sağlar, mevcut bilgileri değerlendirme ve yeni varsayımlar oluşturma imkanı sunar.",Kavramsal,158
+Arkeolojik buluntuların toplumlar için önemi nedir?,"Arkeolojik buluntular, geçmiş toplumların yaşam tarzları, kültürleri ve tarihleri hakkında bilgi sağlayarak, günümüz toplumlarının kendilerini anlamalarına yardımcı olur.",Yansıtıcı,158
+Sarı rengin psikolojik etkileri nelerdir ve bu neden taksilerde tercih edilmektedir?,"Sarı renk dikkat çekici ve geçici olduğu için taksilerde tercih edilir. Bu renk, potansiyel müşterilerin dikkatini çekerek taksilerin daha kolay fark edilmesini sağlar.",Analitik,158
+İglo tipi evlerin coğrafi koşullara adaptasyon açısından önemi nedir?,"İglo tipi evler, doğal bitki örtüsünün olmadığı ve yapı malzemelerinin sınırlı olduğu coğrafi koşullarda yaşayan Eskimolar için pratik ve sürdürülebilir bir barınma çözümüdür.",Kavramsal,158
+Merkez bankasının para politikası kararlarının ekonomik etkileri neler olabilir?,"Merkez bankasının para politikası kararları, enflasyonu kontrol altında tutma, ekonomik büyümeyi destekleme ve finansal istikrarı sağlama gibi çeşitli ekonomik etkiler yaratabilir.",Yansıtıcı,158
+"Sosyal bilimlerin farklı dalları (arkeoloji, psikoloji, tarih, coğrafya) insan yaşamını nasıl farklı açılardan inceler?","Arkeoloji geçmiş uygarlıkları incelerken, psikoloji insan davranışlarını, tarih geçmiş olayları, coğrafya ise yeryüzü şekillerini ve insan-çevre ilişkisini inceler.",Analitik,158
+Patent hakkının amaçlarından hangileri yukarıda belirtilmiştir?,Yeni fikirleri ve bilimsel gelişmeleri teşvik etmek ve buluş sahibinin izni olmadan ürünün üretilmesini önlemek patent hakkının amaçlarındandır.,Olgusal,159
+Patent hakkının amaçlarından biri teknolojinin çevreye zararlarını engellemek midir?,"Hayır, teknolojinin çevreye zararlarını engellemek patent hakkının amaçlarından biri olarak belirtilmemiştir.",Olgusal,159
+"Türkiye'nin bilim ve teknoloji politikalarını belirleyen, uluslararası iş birliği yapan ve üniversite-sanayi iş birliğini geliştiren kurum hangisidir?","Türkiye'nin bilim ve teknoloji politikalarını belirleyen, uluslararası iş birliği yapan ve üniversite-sanayi iş birliğini geliştiren kurum TÜBİTAK'tır.",Olgusal,159
+TÜİK'in yukarıda belirtilen amaçlarla bir ilgisi var mıdır?,"Hayır, TÜİK'in (Türkiye İstatistik Kurumu) yukarıda belirtilen amaçlarla bir ilgisi bulunmamaktadır. Belirtilen amaçlar TÜBİTAK'a aittir.",Olgusal,159
+Bilim ve teknolojinin geliştirilmesine yönelik ülkemizdeki çalışmalara örnekler nelerdir?,"Ülkemizde bilim ve teknolojinin geliştirilmesine yönelik çalışmalar arasında TÜBİTAK'ın faaliyetleri, üniversitelerdeki araştırma projeleri ve teknoparklar sayılabilir.",Olgusal,159
+Bilimsel ve teknolojik gelişmelerin gelecekte insan yaşamında ne gibi olumlu değişiklikler yapması bekleniyor?,"Bilimsel ve teknolojik gelişmelerin gelecekte insan yaşamında sağlık hizmetlerinin iyileşmesi, ulaşımın kolaylaşması, iletişim olanaklarının artması ve yaşam kalitesinin yükselmesi gibi olumlu değişiklikler yapması bekleniyor.",Spekülatif,159
+Bilimsel araştırmalarda araştırma basamaklarını takip etmenin önemi nedir?,"Bilimsel araştırmalarda araştırma basamaklarını takip etmek, araştırmanın güvenilirliğini ve doğruluğunu sağlamak, sonuçların tekrarlanabilirliğini artırmak ve bilimsel etik kurallarına uygun davranmak açısından önemlidir.",Kavramsal,159
+Korsan ürün kullanmanın ülke ekonomisine ve insanlara zararları nelerdir?,"Korsan ürün kullanmak, vergi kaybına neden olarak ülke ekonomisine zarar verir, yasal üreticileri zarara uğratır, istihdamı azaltır, kalitesiz ve güvensiz ürünlerin kullanımına yol açarak insan sağlığını tehlikeye atar ve fikri mülkiyet haklarını ihlal eder.",Analitik,159
+Bulmacadaki 1. sorunun cevabı nedir?,Bulmacadaki 1. sorunun cevabı TÜBİTAK'tır.,Olgusal,159
+Arkeoloji hangi kalıntıları gün yüzüne çıkarır?,"Arkeoloji, toprak ve su altındaki kalıntıları gün yüzüne çıkarır.",Olgusal,159
+Meteoroloji biliminin incelediği konular nelerdir?,"Meteoroloji bilimi, doğa olaylarının oluşumunu ve insanlara etkilerini inceler.",Olgusal,159
+Sürücüsüz araçlara ne ad verilir?,Sürücüsüz araçların genel adı otonom araçlardır.,Olgusal,159
+"Kitap, dergi ve gazetelerin bulunduğu yere ne denir?","Kitap, dergi, gazete gibi basılı eserlerin bulunduğu yere kütüphane denir.",Olgusal,159
+Korsan ürünlerin engellenmesi için uygulanan güvenlik önlemi nedir?,"Kitap, CD gibi ürünlerin taklit edilerek satılmaması için uygulanan güvenlik önlemi bandroldür.",Olgusal,159
+Bir eseri izin almadan piyasaya sürmeye ne denir?,Bir eseri izin almadan piyasaya sürmeye korsanlık denir.,Olgusal,159
+Görsel 5.1'de ne gösterilmektedir?,Görsel 5.1'de Rize'de çalışan bir çay işçisi gösterilmektedir.,Olgusal,160
+Bu görselin başlığı nedir?,"Bu görselin başlığı 'Çay işçisi, Rize'dir.",Olgusal,160
+Görselin bulunduğu yer neresidir?,Görsel Rize'yi göstermektedir.,Olgusal,160
+Bu görselin amacı ne olabilir?,"Bu görselin amacı, Rize'deki çay üretiminde çalışan işçilerin yaşam koşullarını veya çalışma ortamlarını göstermek olabilir.",Spekülatif,160
+"Bu görsel, Türkiye'deki hangi sektörü temsil etmektedir?","Bu görsel, Türkiye'deki çay üretim sektörünü temsil etmektedir.",Bağlamsal,160
+Görseldeki çay işçisinin yaptığı işin önemi nedir?,"Görseldeki çay işçisinin yaptığı iş, çay üretiminin temelini oluşturur ve ülke ekonomisine katkı sağlar.",Kavramsal,160
+Rize'nin bu görselde vurgulanmasının nedeni nedir?,"Rize, Türkiye'nin önemli çay üretim bölgelerinden biri olduğu için bu görselde vurgulanmıştır.",Nedensel,160
+Çay işçilerinin çalışma koşulları hakkında bu görselden ne çıkarılabilir?,"Bu görselden, çay işçilerinin zorlu arazi koşullarında ve muhtemelen uzun saatler boyunca çalıştığı çıkarılabilir. Ancak, görsel tek başına çalışma koşullarının tamamını yansıtmayabilir.",Analitik,160
+"Bu görsel olmasaydı, Rize'deki çay üretimi hakkında ne tür bir eksiklik olurdu?","Bu görsel olmasaydı, Rize'deki çay üretiminin insan emeğiyle olan bağlantısı ve işçilerin rolü tam olarak anlaşılamayabilirdi.",Varsayımsal,160
+Bu görselin izleyici üzerindeki etkileri neler olabilir?,"Bu görsel, izleyicide çay üretiminin zahmetini, işçilerin emeğini ve bölgenin ekonomik önemini düşündürebilir.",Yansıtıcı,160
+Bu görselin ana teması nedir?,"Bu görselin ana teması, Rize'deki çay üretimi ve bu üretimde çalışan işçilerdir.",Özetleme,160
+Bu görselde belirtilen yer neresidir?,"Bu görselde belirtilen yer, Rize'dir.",Olgusal,160
+Bu görselde hangi meslek grubu temsil edilmektedir?,Bu görselde çay işçisi meslek grubu temsil edilmektedir.,Olgusal,160
+Bu görseldeki çay işçisinin rolü nedir?,"Bu görseldeki çay işçisinin rolü, çay bitkisini toplamak ve çay üretim sürecinin ilk aşamasını gerçekleştirmektir.",Yöntemsel,160
+Görselin numarası nedir?,Görselin numarası 5.1'dir.,Olgusal,160

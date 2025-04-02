@@ -1,0 +1,76 @@
+question,answer,question_type,page
+Soru-cevap çifti oluşturmanın amacı nedir?,Verilen metinden insanların sorabileceği çeşitli türlerde sorular üretmek ve bunlara kapsamlı yanıtlar sağlamaktır.,Kavramsal,101
+Oluşturulacak soru-cevap çiftlerinde dil tutarlılığı neden önemlidir?,"Soruların ve cevapların, verilen metnin diliyle aynı olması, anlaşılabilirliği ve tutarlılığı sağlar.",Nedensel,101
+Hangi türde sorular oluşturulmalıdır?,"Olgusal, kavramsal, bağlamsal, nedensel, yöntemsel, analitik, varsayımsal, yansıtıcı, spekülatif, listeleme ve özetleme gibi farklı türlerde sorular oluşturulmalıdır.",Listeleme,101
+Neden 'Evet' veya 'Hayır' gibi kısa cevaplardan kaçınılmalıdır?,"'Evet' veya 'Hayır' gibi kısa cevaplar, bilginin ardındaki gerekçeyi anlamak için gerekli bağlamı sağlamaz.",Nedensel,101
+Bağlam farkındalığı ne anlama gelir ve neden önemlidir?,"Bağlam farkındalığı, tüm soruların verilen metnin içeriğine derinlemesine kök saldığından ve materyalin amacını ve nüanslarını anladığından emin olmayı ifade eder. Bu, soruların ve cevapların ilgili ve anlamlı olmasını sağlar.",Kavramsal,101
+Soru-cevap çiftleri oluşturulurken nelere dikkat edilmelidir?,"Dil tutarlılığına, soru çeşitliliğine, zorluk dengesine, yanıt hassasiyetine, bağlam farkındalığına ve tekrardan kaçınmaya dikkat edilmelidir.",Listeleme,101
+Olgusal sorulara bir örnek verin.,'X ne anlama gelir?' gibi belirli bilgileri soran doğrudan sorular olgusal sorulardır.,Olgusal,101
+Kavramsal soruların amacı nedir?,"Kavramsal sorular, içeriğin ardındaki fikirleri ve prensipleri araştırmayı amaçlar.",Kavramsal,101
+"'X, Y ile nasıl karşılaştırılır?' sorusu hangi soru türüne girer?","'X, Y ile nasıl karşılaştırılır?' sorusu analitik soru türüne girer.",Analitik,101
+'X olursa ne olur?' gibi varsayımsal sorular neden önemlidir?,"'X olursa ne olur?' gibi varsayımsal sorular, farklı senaryoların olası sonuçlarını değerlendirmeye yardımcı olur.",Nedensel,101
+Yansıtıcı sorular neyi hedefler?,"Yansıtıcı sorular, bir konunun sonuçları veya etkileri hakkında derinlemesine düşünmeyi hedefler.",Kavramsal,101
+Neden tüm soruların benzersiz olması gerekir?,"Tüm soruların benzersiz olması, tekrardan kaçınmayı ve içeriğin farklı yönlerini ele almayı sağlar.",Nedensel,101
+Zorluk dengesi neden önemlidir?,"Zorluk dengesi, farklı bilgi seviyelerine sahip kişilerin içeriği anlamasına yardımcı olur.",Nedensel,101
+Yanıt hassasiyeti ne anlama gelir?,"Yanıt hassasiyeti, sağlanan içeriğe dayalı özlü ve doğru yanıtlar vermeyi ifade eder. Ancak yanıtlar, konuyu anlamak için yeterli bağlamı sağlamalıdır.",Kavramsal,101
+Metnin amacını anlayan bir soru nasıl olmalıdır?,"Metnin amacını anlayan bir soru, metnin ana fikrini, argümanını veya hedefini yansıtan ve bu doğrultuda bilgi talep eden bir soru olmalıdır.",Bağlamsal,101
+Bu metnin temel amacı nedir?,"Bu metnin temel amacı, verilen bir metinden yüksek kaliteli soru-cevap çiftleri oluşturmak için bir yapay zekaya talimatlar vermektir.",Olgusal,102
+Soru-cevap çiftleri oluşturulurken hangi dilsel tutarlılık kuralına uyulmalıdır?,"Sorular ve cevaplar, verilen metnin diliyle aynı olmalıdır.",Olgusal,102
+Neden farklı türde sorular oluşturmak önemlidir?,"Farklı türde sorular oluşturmak, metnin içeriğini çeşitli açılardan değerlendirmeyi ve anlamayı sağlar. Bu, içeriğin daha kapsamlı bir şekilde anlaşılmasına yardımcı olur.",Kavramsal,102
+Metinde belirtilen soru türlerinden bazıları nelerdir?,"Metinde belirtilen soru türlerinden bazıları şunlardır: olgusal, kavramsal, bağlamsal, nedensel, yöntemsel, analitik, varsayımsal, yansıtıcı, spekülatif, listeleme ve özetleme.",Listeleme,102
+Yanıtların 'Evet' veya 'Hayır' gibi aşırı kısa olmaması neden önemlidir?,"'Evet' veya 'Hayır' gibi aşırı kısa yanıtlar, bilginin ardındaki gerekçeyi anlamak için gerekli bağlamı sağlamaz. Bu nedenle, yanıtlar daha açıklayıcı olmalıdır.",Nedensel,102
+Bağlam farkındalığı neden önemlidir?,"Bağlam farkındalığı, soruların verilen metnin içeriğine derinlemesine kök salmasını ve materyalin amacını ve nüanslarını anlamasını sağlar.",Kavramsal,102
+Soru-cevap çiftleri oluşturulurken tekrardan kaçınmanın önemi nedir?,"Tekrardan kaçınmak, her sorunun belirgin ve benzersiz olmasını sağlar, bu da metnin daha verimli bir şekilde değerlendirilmesine yardımcı olur.",Kavramsal,102
+Yapay zekanın oluşturması gereken soru-cevap çiftlerinin zorluk seviyesi nasıl olmalıdır?,"Yapay zeka, basit, orta ve karmaşık zorluk seviyelerinde sorular oluşturmalıdır.",Olgusal,102
+Varsayımsal bir soru örneği verin.,"Varsayımsal bir soru örneği: 'Yapay zeka, metni anlamakta zorlanırsa ne olur?' olabilir.",Örnekleme,102
+Analitik sorular ne tür bir değerlendirme içerir?,"Analitik sorular, karşılaştırma, karşıtlık veya genel değerlendirme gibi süreçleri içerir.",Olgusal,102
+Bu görevde 'cevap hassasiyeti' ne anlama gelir?,"'Cevap hassasiyeti', sağlanan içeriğe dayalı özlü ve doğru yanıtlar vermek anlamına gelir. Ancak yanıtlar, cevabı açıkça açıklamak için yeterli bağlamı içermelidir.",Olgusal,102
+Bu metinde kaç adet soru-cevap çifti oluşturulması istenmektedir?,Bu metinde 15 adet soru-cevap çifti oluşturulması istenmektedir.,Olgusal,102
+Neden birisi bu yapay zeka talimatlarına uymakta zorlanabilir?,"Birisi bu yapay zeka talimatlarına uymakta zorlanabilir çünkü farklı soru türlerini anlamak, metnin bağlamını doğru yorumlamak ve hem özlü hem de açıklayıcı yanıtlar oluşturmak beceri gerektirir.",Spekülatif,102
+"Bu talimatlara göre, iyi bir soru-cevap çifti nasıl olmalıdır?","İyi bir soru-cevap çifti, metnin içeriğine uygun, farklı bir soru türünü temsil eden, doğru ve özlü bir cevapla desteklenen ve tekrardan kaçınan bir çifttir.",Özetleme,102
+"Bu talimatlar, yapay zekanın yaratıcılığını nasıl etkiler?","Bu talimatlar, yapay zekanın yaratıcılığını belirli sınırlar içinde tutar. Yapay zeka, belirtilen kurallara uymak zorunda olsa da, farklı soru türleri oluşturarak ve açıklayıcı cevaplar vererek yaratıcılığını kullanabilir.",Yansıtıcı,102
+Bu metnin temel amacı nedir?,"Bu metnin temel amacı, verilen bir metinden yüksek kaliteli soru-cevap çiftleri oluşturmaktır.",Olgusal,103
+Hangi türde sorular oluşturulmalıdır?,"Olgusal, kavramsal, bağlamsal, nedensel, yöntemsel, analitik, varsayımsal, yansıtıcı, spekülatif, listeleme ve özetleme gibi farklı türlerde sorular oluşturulmalıdır.",Listeleme,103
+Soru ve cevapların dil tutarlılığı neden önemlidir?,"Dil tutarlılığı, soruların ve cevapların verilen metnin diliyle aynı olmasını sağlayarak anlaşılabilirliği ve erişilebilirliği artırır.",Kavramsal,103
+Neden 'Evet' veya 'Hayır' gibi kısa cevaplardan kaçınılmalıdır?,"'Evet' veya 'Hayır' gibi kısa cevaplardan kaçınılmalıdır çünkü bu tür cevaplar, bilginin ardındaki gerekçeyi anlamak için gerekli bağlamı sağlamaz.",Nedensel,103
+Bağlam farkındalığı neden önemlidir?,"Bağlam farkındalığı, soruların verilen metnin içeriğine derinlemesine kök salmasını ve materyalin amacını ve nüanslarını anlamasını sağlar.",Kavramsal,103
+Oluşturulacak soru-cevap çiftlerinin zorluk seviyesi nasıl olmalıdır?,"Oluşturulacak soru-cevap çiftleri basit, orta ve karmaşık zorluk seviyelerinde olmalıdır.",Yöntemsel,103
+Soru-cevap çiftleri oluşturulurken tekrardan kaçınmanın önemi nedir?,"Tekrardan kaçınma, oluşturulan tüm soruların belirgin ve benzersiz olmasını sağlayarak bilgi tekrarını önler ve öğrenme deneyimini geliştirir.",Kavramsal,103
+Metinde belirtilen soru türlerinden 'yöntemsel' soru neye odaklanır?,"'Yöntemsel' soru, süreçlere veya adımlara odaklanır.",Olgusal,103
+'Analitik' sorular neyi amaçlar?,"'Analitik' sorular, konuları karşılaştırmayı, karşıtlaştırmayı veya değerlendirmeyi amaçlar.",Olgusal,103
+'X' olursa ne olur?' gibi bir soru hangi soru türüne girer?,'X' olursa ne olur?' gibi bir soru 'varsayımsal' soru türüne girer.,Olgusal,103
+Neden cevaplar çok kısa olmamalıdır?,Cevaplar çok kısa olmamalıdır çünkü cevabı açıkça açıklamak için yeterli bağlam verilmesi gerekir.,Nedensel,103
+Bu metinde kaç adet soru-cevap çifti oluşturulması istenmektedir?,Bu metinde 15 adet soru-cevap çifti oluşturulması istenmektedir.,Olgusal,103
+Soru-cevap çiftlerinin JSON formatında verilmesinin sebebi nedir?,"Soru-cevap çiftlerinin JSON formatında verilmesinin sebebi, verinin yapılandırılmış ve makine tarafından kolayca işlenebilir olmasını sağlamaktır.",Nedensel,103
+"Eğer metin İngilizce olsaydı, soru ve cevaplar nasıl olurdu?","Eğer metin İngilizce olsaydı, soru ve cevaplar da İngilizce olurdu. Dil tutarlılığı sağlanması gerekirdi.",Varsayımsal,103
+Soru oluştururken nelere dikkat edilmelidir?,"Soru oluştururken soru çeşitliliğine, zorluk dengesine, bağlam farkındalığına ve tekrardan kaçınmaya dikkat edilmelidir.",Yöntemsel,103
+Bu belgenin temel amacı nedir?,"Bu belgenin temel amacı, verilen metinden yüksek kaliteli soru-cevap çiftleri oluşturmaktır.",Olgusal,104
+Neden farklı türde sorular oluşturmak önemlidir?,"Farklı türde sorular oluşturmak, içeriğin daha geniş bir şekilde anlaşılmasını ve farklı düşünme becerilerinin geliştirilmesini sağlar.",Kavramsal,104
+Bu görevde 'Dil Tutarlılığı' neden vurgulanmaktadır?,"'Dil Tutarlılığı', soruların ve cevapların metnin diliyle aynı olmasını sağlayarak anlaşılabilirliği ve tutarlılığı korumak için vurgulanmaktadır.",Nedensel,104
+Bu görevde hangi soru türleri yer almalıdır?,"Bu görevde olgusal, kavramsal, bağlamsal, nedensel, yöntemsel, analitik, varsayımsal, yansıtıcı, spekülatif, listeleme ve özetleme gibi farklı türlerde sorular yer almalıdır.",Listeleme,104
+Neden 'Evet' veya 'Hayır' gibi kısa yanıtlardan kaçınılmalıdır?,'Evet' veya 'Hayır' gibi kısa yanıtlardan kaçınılmalıdır çünkü bu tür yanıtlar bilginin ardındaki gerekçeyi anlamak için gerekli bağlamı sağlamaz.,Nedensel,104
+Bu görevde 'Bağlam Farkındalığı' ne anlama gelir?,"'Bağlam Farkındalığı', tüm soruların verilen metnin içeriğine derinlemesine kök saldığından ve materyalin amacını ve nüanslarını anladığından emin olmayı ifade eder.",Kavramsal,104
+Soru-cevap çiftleri oluşturulurken hangi zorluk seviyeleri dikkate alınmalıdır?,"Soru-cevap çiftleri oluşturulurken basit, orta ve karmaşık olmak üzere farklı zorluk seviyeleri dikkate alınmalıdır.",Yöntemsel,104
+Bu görevde 'Yanıt Hassasiyeti' neden önemlidir?,"'Yanıt Hassasiyeti', sağlanan içeriğe dayalı özlü ve doğru yanıtlar verilmesini sağlayarak, bilginin doğru ve etkili bir şekilde aktarılmasını sağlamak için önemlidir.",Nedensel,104
+"Eğer metin İngilizce olsaydı, soru ve cevaplar nasıl olurdu?","Eğer metin İngilizce olsaydı, tüm sorular ve cevaplar da İngilizce dilinde oluşturulurdu.",Varsayımsal,104
+Bu görevde kaç adet soru-cevap çifti oluşturulması gerekmektedir?,Bu görevde 15 adet soru-cevap çifti oluşturulması gerekmektedir.,Olgusal,104
+Bu görevde tekrardan kaçınmanın önemi nedir?,"Bu görevde tekrardan kaçınmanın önemi, oluşturulan soruların belirgin ve benzersiz olmasını sağlayarak içeriğin daha kapsamlı bir şekilde ele alınmasını sağlamaktır.",Kavramsal,104
+Bu görevde JSON formatı neden tercih edilmektedir?,"Bu görevde JSON formatı, verilerin yapılandırılmış ve kolayca işlenebilir bir şekilde sunulmasını sağladığı için tercih edilmektedir.",Nedensel,104
+İyi bir soru-cevap çifti nasıl olmalıdır?,"İyi bir soru-cevap çifti, açık, özlü, doğru, bağlamsal olarak uygun ve metnin içeriğine derinlemesine kök salmış olmalıdır.",Analitik,104
+Bu görevde amaçlanan sonuçlar nelerdir?,"Bu görevde amaçlanan sonuçlar, verilen metni kapsamlı bir şekilde değerlendiren ve farklı düşünme becerilerini teşvik eden yüksek kaliteli soru-cevap çiftleri oluşturmaktır.",Yansıtıcı,104
+Bu görevde 'Soru Çeşitliliği' neden önemlidir?,"'Soru Çeşitliliği' içeriğin farklı açılardan ele alınmasını sağlayarak daha zengin ve kapsamlı bir öğrenme deneyimi sunar. Farklı soru türleri, bilginin daha derinlemesine anlaşılmasına ve farklı düşünme becerilerinin geliştirilmesine yardımcı olur.",Kavramsal,104
+Soru-cevap çifti oluşturma görevinin temel amacı nedir?,"Verilen metinden, insanların sorabileceği çeşitli türlerde sorular üretmek ve bunlara kapsamlı yanıtlar sağlamaktır.",Olgusal,105
+Soru-cevap çiftlerinde dil tutarlılığı neden önemlidir?,"Soruların ve cevapların, metnin diliyle aynı olması, anlaşılabilirliği ve tutarlılığı sağlamak için önemlidir.",Kavramsal,105
+Hangi farklı soru türleri oluşturulmalıdır?,"Olgusal, kavramsal, bağlamsal, nedensel, yöntemsel, analitik, varsayımsal, yansıtıcı, spekülatif, listeleme ve özetleme gibi çeşitli soru türleri oluşturulmalıdır.",Listeleme,105
+Neden 'Evet' veya 'Hayır' gibi aşırı kısa yanıtlardan kaçınılmalıdır?,"Aşırı kısa yanıtlardan kaçınılmalıdır çünkü cevap, bilginin ardındaki gerekçeyi anlamak için gerekli bağlamı sağlamalıdır.",Nedensel,105
+Soru-cevap çiftleri oluşturulurken nelere dikkat edilmelidir?,"Dil tutarlılığı, soru çeşitliliği, zorluk dengesi, yanıt hassasiyeti, bağlam farkındalığı ve tekrardan kaçınma gibi unsurlara dikkat edilmelidir.",Özetleme,105
+Bağlam farkındalığı neden önemlidir?,Tüm soruların verilen metnin içeriğine derinlemesine kök saldığından ve materyalin amacını ve nüanslarını anladığından emin olmak için bağlam farkındalığı önemlidir.,Kavramsal,105
+Soru-cevap çiftlerindeki 'zorluk dengesi' ne anlama gelir?,"Zorluk dengesi, basit, orta ve karmaşık soruların dengeli bir şekilde dahil edilmesini ifade eder.",Olgusal,105
+Metinde 'spekülatif' soru türü ne anlama gelir ve ne zaman kullanılır?,"Spekülatif soru türü, fikir tabanlı veya keşifsel soruları ifade eder ve uygun olduğunda kullanılır.",Olgusal,105
+"Eğer metin İngilizce olsaydı, soru ve cevaplar nasıl değişirdi?","Eğer metin İngilizce olsaydı, tüm sorular ve cevaplar İngilizce dilinde oluşturulurdu.",Varsayımsal,105
+Neden her sorunun benzersiz olması gerekmektedir?,Tekrardan kaçınmak ve farklı açılardan bilgi edinmek için her sorunun benzersiz olması gerekmektedir.,Nedensel,105
+Yanıt hassasiyeti nasıl sağlanır?,Sağlanan içeriğe dayalı özlü ve doğru yanıtlar vererek yanıt hassasiyeti sağlanır.,Yöntemsel,105
+Oluşturulan soru türlerinden 'yansıtıcı' soru neyi hedefler?,"'Yansıtıcı' sorular, sonuçlar veya etkiler hakkında sorular sormayı hedefler.",Olgusal,105
+Soru-cevap çiftlerinin kalitesini artırmak için hangi ek adımlar atılabilir?,"Soru-cevap çiftlerinin kalitesini artırmak için, farklı hedef kitleleri göz önünde bulundurmak ve geri bildirimlere göre iyileştirmeler yapmak gibi ek adımlar atılabilir.",Spekülatif,105
+"Soru-cevap çifti oluşturma sürecinde, 'bağlamsal' soruların rolü nedir?","'Bağlamsal' sorular, konunun daha geniş bağlamı veya arka planı hakkında bilgi edinmeyi sağlar.",Kavramsal,105
+Bu metinden çıkarılabilecek en önemli ders nedir?,"Bu metinden çıkarılabilecek en önemli ders, etkili bir soru-cevap sistemi oluşturmak için dil tutarlılığı, soru çeşitliliği, yanıt hassasiyeti ve bağlam farkındalığı gibi çeşitli faktörlerin dikkate alınması gerektiğidir.",Özetleme,105
