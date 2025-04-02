@@ -494,6 +494,82 @@ class OutputManager:
                         print(f"Uyarı: {batch_file} dosyası okunamadı: {e}")
         
         print(f"\nTüm batch'ler birleştirildi: {len(all_qa_pairs)} soru-cevap çifti {merged_filename}.{self.config.output_format} dosyasına kaydedildi")
+        
+    def merge_all_dataset_files(self) -> None:
+        """Farklı PDF'lerden elde edilen CSV dosyalarını birleştirir.
+        Kullanıcıya hangi dosyaları birleştirmek istediğini sorar.
+        """
+        # _all.csv veya _all.json dosyalarını bul
+        import glob
+        
+        all_files = []
+        
+        # CSV veya JSON formatında tüm *_all.* dosyalarını bul
+        extension = "." + self.config.output_format.lower()
+        pattern = f"*_all{extension}"
+        all_files = glob.glob(pattern)
+        
+        if not all_files:
+            print(f"Birleştirilecek dosya bulunamadı. (Aranan: {pattern})")
+            return
+        
+        print(f"\n{len(all_files)} birleştirilebilir dosya bulundu:")
+        for i, file in enumerate(all_files):
+            print(f"{i+1}. {file}")
+        
+        print("\nBirleştirmek istediğiniz dosyaları seçin:")
+        print("1. Tüm dosyaları birleştir")
+        print("2. Belirli dosyaları seç")
+        print("3. İptal et")
+        
+        try:
+            choice = int(input("Seçiminiz (1-3): "))
+            
+            if choice == 1:
+                # Tüm dosyaları birleştir
+                selected_files = all_files
+            elif choice == 2:
+                # Belirli dosyaları seç
+                print("\nBirleştirmek istediğiniz dosyaları seçin (1,3,5 gibi numaraları virgülle ayırın):")
+                for i, file in enumerate(all_files):
+                    print(f"{i+1}. {file}")
+                    
+                indices_input = input("Seçimleriniz: ")
+                selected_indices = [int(idx.strip()) - 1 for idx in indices_input.split(',')]
+                
+                selected_files = []
+                for idx in selected_indices:
+                    if 0 <= idx < len(all_files):
+                        selected_files.append(all_files[idx])
+                    else:
+                        print(f"Uyarı: {idx+1} geçerli bir seçim değil, atlanıyor.")
+            elif choice == 3:
+                print("İşlem iptal edildi.")
+                return
+            else:
+                print("Geçersiz seçim, işlem iptal edildi.")
+                return
+            
+            if not selected_files:
+                print("Seçilen dosya yok, işlem iptal edildi.")
+                return
+            
+            # Çıktı dosya adını belirle
+            output_name = input("\nBirleştirilmiş dosya için isim girin (uzantı olmadan): ")
+            if not output_name.strip():
+                output_name = "combined_dataset"
+            
+            # Dosyaları birleştir
+            print(f"\n{len(selected_files)} dosya birleştiriliyor...")
+            self.merge_multiple_files(selected_files, output_name)
+            print(f"Birleştirme işlemi tamamlandı. Dosya: {output_name}.{self.config.output_format}")
+            
+        except ValueError:
+            print("Geçersiz giriş, işlem iptal edildi.")
+        except Exception as e:
+            print(f"Hata oluştu: {e}")
+            import traceback
+            traceback.print_exc()
 
 
 class FineTuneDatasetGenerator:
@@ -609,6 +685,8 @@ def main():
     parser.add_argument("--output-dir", help="Çıktıların kaydedileceği dizin")
     parser.add_argument("--no-merge", action="store_true", default=False, 
                       help="Tüm kitapların çıktılarını tek bir CSV dosyasında birleştirme")
+    parser.add_argument("--merge-all", action="store_true", default=False, 
+                      help="Farklı PDF'lerden elde edilen _all.csv dosyalarını tek bir dosyada birleştir")
     parser.add_argument("--api-key", help="Google API anahtarı (belirtilmezse GOOGLE_API_KEY çevre değişkeni kullanılır)")
     parser.add_argument("--model", default=Config.DEFAULT_MODEL, 
                       help=f"Kullanılacak model (varsayılan: {Config.DEFAULT_MODEL})")
@@ -837,6 +915,16 @@ def main():
         print(f"CSV dosyası şu konumda: {os.path.abspath(merged_output)}.csv")
     
     print(f"\nTüm işlemler tamamlandı. {len(pdf_files_to_process)} PDF dosyası işlendi.")
+    
+    # Tüm PDF'ler işlendikten sonra, eğer --merge-all parametresi belirtilmişse
+    # farklı PDF'lerden elde edilen _all dosyalarını birleştir
+    if args.merge_all:
+        print("\n===================================================")
+        print("Farklı PDF'lerden elde edilen veri setlerini birleştirme")
+        print("===================================================\n")
+        output_manager = OutputManager(config)
+        output_manager.merge_all_dataset_files()
+    
     return 0
 
 
