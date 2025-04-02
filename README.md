@@ -24,10 +24,18 @@ cd argemfinetuning2
 pip install pymupdf google-generativeai
 ```
 
-3. Google API anahtarınızı ortam değişkeni olarak ayarlayın:
-```bash
-export GOOGLE_API_KEY="sizin-api-anahtariniz"
-```
+3. Google API anahtarınızı ayarlayın:
+
+   a. Önerilen yöntem (.env dosyası kullanarak):
+   ```bash
+   # .env dosyası oluşturun (bu dosya GitHub'a yüklenmeyecektir):
+   echo "GOOGLE_API_KEY=sizin-api-anahtariniz" > .env
+   ```
+
+   b. Alternatif olarak ortam değişkeni kullanarak:
+   ```bash
+   export GOOGLE_API_KEY="sizin-api-anahtariniz"
+   ```
 
 ## Kullanım
 
@@ -80,3 +88,16 @@ python pdf_to_finetune_dataset.py --merge-all
 ## Not
 
 Büyük PDF dosyaları (>50MB) Git LFS ile yönetilmektedir.
+
+## Güvenlik ve Gizlilik
+
+Bu projede hassas bilgilerin güvenli bir şekilde yönetilmesi için aşağıdaki önlemler alınmıştır:
+
+1. **API Anahtarları**: Google API anahtarları gibi hassas bilgiler `.env` dosyasında saklanır ve bu dosya `.gitignore` ile GitHub'a gönderilmez.
+
+2. **Örnek Konfigürasyon**: Projeyi kuracak kişiler için bir `.env.example` dosyası bulunmaktadır. Kullanıcılar bu dosyayı kopyalayıp kendi API anahtarlarını ekleyebilirler.
+
+3. **Dikkat Edilmesi Gerekenler**:
+   - Hiçbir zaman API anahtarlarınızı direkt kod içine eklemeyin
+   - `.env` dosyanızı asla Git repository'sine eklemeyin
+   - Eğer yanlışlıkla hassas bilgiler repository'ye eklendiyse, repository geçmişini temizlemek için [GitHub doc](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository) adresindeki talimatları izleyin

@@ -1,4 +1,39 @@
+# PDF dosyaları
 kitap1.pdf
 kitap2.pdf
 EVOS 6. Sınıf Sosyal Bilgiler Ders Kitabı.pdf
 paraf-6-sinif-sosyal-bilgiler-soru-kutuphanesi.pdf
+
+# Hassas bilgiler ve çevresel değişkenler
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+# .env.example dosyası istisna - bu GitHub'a gönderilecek
+!.env.example
+*.key
+secrets.json
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE'ler ve düzenleyiciler
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store

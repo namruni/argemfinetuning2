@@ -15,6 +15,16 @@ from typing import List, Dict, Any, Optional
 import fitz as pymupdf  # PyMuPDF kütüphanesi
 import google.generativeai as genai  # Google Generative AI için
 
+# .env dosyasından çevresel değişkenleri yüklemeyi dene
+try:
+    from dotenv import load_dotenv
+    # .env dosyasını yükle
+    load_dotenv()
+    print("Çevresel değişkenler .env dosyasından yüklendi")
+except ImportError:
+    print("python-dotenv kütüphanesi bulunamadı. pip install python-dotenv ile kurabilirsiniz.")
+    print("Çevresel değişkenler direkt olarak sistem ortamından alınacak.")
+
 # Yapılandırma
 class Config:
     """Program yapılandırması"""

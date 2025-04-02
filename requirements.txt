@@ -5,3 +5,6 @@ pymupdf==1.24.0
 
 # Google Generative AI API (Gemini)
 google-generativeai==0.8.0
+
+# Çevresel değişken yönetimi
+python-dotenv==1.0.1
